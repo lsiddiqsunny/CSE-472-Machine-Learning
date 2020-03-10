@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+Offline 1/0.0.7
+
+Offline 1/adult/
+
+Offline 1/creditcardfraud/
+
+Offline 1/telco-customer-churn/
