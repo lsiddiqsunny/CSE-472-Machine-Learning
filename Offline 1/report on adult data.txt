@@ -1,0 +1,147 @@
+Training result
+True Positive: 6024
+False Positive: 1158
+False Negative: 1817
+True Negative: 23562
+Condition Positive: 7841
+Condition Negative: 24720
+Accuracy: 90.86330272411782 %
+Recall: 0.7682693533988012
+Ture Negative rate: 0.9531553398058252
+Precision: 0.8387635756056808
+False Discovery rate: 0.16123642439431912
+F1 Score: 0.8019703121879784
+Test result
+True Positive: 2086
+False Positive: 1363
+False Negative: 1760
+True Negative: 11072
+Condition Positive: 3846
+Condition Negative: 12435
+Accuracy: 80.81813156440022 %
+Recall: 0.5423816952678107
+Ture Negative rate: 0.890390028146361
+Precision: 0.6048129892722528
+False Discovery rate: 0.39518701072774715
+F1 Score: 0.571898560657985
+----------------------------
+Round 5
+Training Dataset
+Accuracy: 82.00608089432143 %
+True Positive: 3207
+False Positive: 1225
+False Negative: 4634
+True Negative: 23495
+Condition Positive: 7841
+Condition Negative: 24720
+Accuracy: 82.00608089432143 %
+Recall: 0.4090039535773498
+Ture Negative rate: 0.9504449838187702
+Precision: 0.7236010830324909
+False Discovery rate: 0.276398916967509
+F1 Score: 0.522610608653141
+Test Dataset
+Accuracy: 82.17554204287205 %
+True Positive: 1565
+False Positive: 621
+False Negative: 2281
+True Negative: 11814
+Condition Positive: 3846
+Condition Negative: 12435
+Accuracy: 82.17554204287207 %
+Recall: 0.40691627665106606
+Ture Negative rate: 0.9500603136308806
+Precision: 0.7159194876486734
+False Discovery rate: 0.28408051235132664
+F1 Score: 0.5188992042440318
+-----------------------------------------------------------------
+Round 10
+Training Dataset
+Accuracy: 83.29596756856363 %
+True Positive: 3766
+False Positive: 1364
+False Negative: 4075
+True Negative: 23356
+Condition Positive: 7841
+Condition Negative: 24720
+Accuracy: 83.29596756856363 %
+Recall: 0.480295880627471
+Ture Negative rate: 0.9448220064724919
+Precision: 0.7341130604288499
+False Discovery rate: 0.2658869395711501
+F1 Score: 0.5806799784133837
+Test Dataset
+Accuracy: 83.50838400589645 %
+True Positive: 1858
+False Positive: 697
+False Negative: 1988
+True Negative: 11738
+Condition Positive: 3846
+Condition Negative: 12435
+Accuracy: 83.50838400589645 %
+Recall: 0.4830993239729589
+Ture Negative rate: 0.9439485323683152
+Precision: 0.72720156555773
+False Discovery rate: 0.27279843444227003
+F1 Score: 0.5805342915169505
+--------------------------------------------------------------------
+Round 15
+Training Dataset
+Accuracy: 83.79656644451951 %
+True Positive: 4406
+False Positive: 1841
+False Negative: 3435
+True Negative: 22879
+Condition Positive: 7841
+Condition Negative: 24720
+Accuracy: 83.79656644451951 %
+Recall: 0.5619181226884326
+Ture Negative rate: 0.9255258899676375
+Precision: 0.7052985433007843
+False Discovery rate: 0.2947014566992156
+F1 Score: 0.6254968767745599
+Test Dataset
+Accuracy: 83.84620109329894 %
+True Positive: 2156
+False Positive: 940
+False Negative: 1690
+True Negative: 11495
+Condition Positive: 3846
+Condition Negative: 12435
+Accuracy: 83.84620109329893 %
+Recall: 0.5605824232969319
+Ture Negative rate: 0.9244069159630076
+Precision: 0.6963824289405685
+False Discovery rate: 0.30361757105943155
+F1 Score: 0.6211466436185538
+--------------------------------------------------------------------------
+Round 20
+Training Dataset
+Accuracy: 84.10368231933909 %
+True Positive: 4267
+False Positive: 1602
+False Negative: 3574
+True Negative: 23118
+Condition Positive: 7841
+Condition Negative: 24720
+Accuracy: 84.10368231933909 %
+Recall: 0.5441907919908175
+Ture Negative rate: 0.9351941747572815
+Precision: 0.7270403816663827
+False Discovery rate: 0.2729596183336173
+F1 Score: 0.6224653537563822
+Test Dataset
+Accuracy: 84.12873902094466 %
+True Positive: 2060
+False Positive: 798
+False Negative: 1786
+True Negative: 11637
+Condition Positive: 3846
+Condition Negative: 12435
+Accuracy: 84.12873902094465 %
+Recall: 0.5356214248569943
+Ture Negative rate: 0.935826296743064
+Precision: 0.7207837648705389
+False Discovery rate: 0.27921623512946114
+F1 Score: 0.6145584725536993
+

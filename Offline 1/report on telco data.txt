@@ -1,0 +1,152 @@
+Training result
+True Positive: 1314
+False Positive: 182
+False Negative: 174
+True Negative: 3964
+Condition Positive: 1488
+Condition Negative: 4146
+Accuracy: 93.6812211572595 %
+Recall: 0.8830645161290323
+Ture Negative rate: 0.9561022672455378
+Precision: 0.8783422459893048
+False Discovery rate: 0.12165775401069519
+F1 Score: 0.8806970509383377
+Test result
+True Positive: 177
+False Positive: 193
+False Negative: 204
+True Negative: 835
+Condition Positive: 381
+Condition Negative: 1028
+Accuracy: 71.82398864442867 %
+Recall: 0.4645669291338583
+Ture Negative rate: 0.8122568093385214
+Precision: 0.4783783783783784
+False Discovery rate: 0.5216216216216216
+F1 Score: 0.47137150466045274
+
+-------------------------------------------------------------------------------------------
+
+
+
+Round 5
+Training Dataset
+Accuracy: 77.36954206602769 %
+True Positive: 819
+False Positive: 606
+False Negative: 669
+True Negative: 3540
+Condition Positive: 1488
+Condition Negative: 4146
+Accuracy: 77.36954206602769 %
+Recall: 0.5504032258064516
+Ture Negative rate: 0.85383502170767
+Precision: 0.5747368421052632
+False Discovery rate: 0.42526315789473684
+F1 Score: 0.5623069001029867
+Test Dataset
+Accuracy: 78.28246983676367 %
+True Positive: 212
+False Positive: 137
+False Negative: 169
+True Negative: 891
+Condition Positive: 381
+Condition Negative: 1028
+Accuracy: 78.28246983676365 %
+Recall: 0.5564304461942258
+Ture Negative rate: 0.8667315175097277
+Precision: 0.6074498567335244
+False Discovery rate: 0.39255014326647564
+F1 Score: 0.5808219178082192
+
+------------------------------------------------------------
+Round 10
+Training Dataset
+Accuracy: 78.64749733759318 %
+True Positive: 691
+False Positive: 406
+False Negative: 797
+True Negative: 3740
+Condition Positive: 1488
+Condition Negative: 4146
+Accuracy: 78.64749733759318 %
+Recall: 0.4643817204301075
+Ture Negative rate: 0.9020742884708153
+Precision: 0.6298997265268915
+False Discovery rate: 0.3701002734731085
+F1 Score: 0.534622823984526
+Test Dataset
+Accuracy: 79.4180269694819 %
+True Positive: 175
+False Positive: 84
+False Negative: 206
+True Negative: 944
+Condition Positive: 381
+Condition Negative: 1028
+Accuracy: 79.4180269694819 %
+Recall: 0.45931758530183725
+Ture Negative rate: 0.9182879377431906
+Precision: 0.6756756756756757
+False Discovery rate: 0.32432432432432434
+F1 Score: 0.546875
+
+-------------------------------------------------------------
+Round 15
+Training Dataset
+Accuracy: 79.67696130635427 %
+True Positive: 818
+False Positive: 475
+False Negative: 670
+True Negative: 3671
+Condition Positive: 1488
+Condition Negative: 4146
+Accuracy: 79.67696130635427 %
+Recall: 0.5497311827956989
+Ture Negative rate: 0.8854317414375301
+Precision: 0.6326372776488786
+False Discovery rate: 0.36736272235112144
+F1 Score: 0.5882775979863358
+Test Dataset
+Accuracy: 79.27608232789213 %
+True Positive: 200
+False Positive: 111
+False Negative: 181
+True Negative: 917
+Condition Positive: 381
+Condition Negative: 1028
+Accuracy: 79.27608232789211 %
+Recall: 0.5249343832020997
+Ture Negative rate: 0.892023346303502
+Precision: 0.6430868167202572
+False Discovery rate: 0.35691318327974275
+F1 Score: 0.5780346820809249
+---------------------------------------------------------
+Round 20
+Training Dataset
+Accuracy: 79.28647497337593 %
+True Positive: 750
+False Positive: 429
+False Negative: 738
+True Negative: 3717
+Condition Positive: 1488
+Condition Negative: 4146
+Accuracy: 79.28647497337593 %
+Recall: 0.5040322580645161
+Ture Negative rate: 0.8965267727930536
+Precision: 0.6361323155216285
+False Discovery rate: 0.3638676844783715
+F1 Score: 0.562429696287964
+Test Dataset
+Accuracy: 78.49538679914833 %
+True Positive: 184
+False Positive: 106
+False Negative: 197
+True Negative: 922
+Condition Positive: 381
+Condition Negative: 1028
+Accuracy: 78.49538679914833 %
+Recall: 0.48293963254593175
+Ture Negative rate: 0.896887159533074
+Precision: 0.6344827586206897
+False Discovery rate: 0.36551724137931035
+F1 Score: 0.5484351713859911
