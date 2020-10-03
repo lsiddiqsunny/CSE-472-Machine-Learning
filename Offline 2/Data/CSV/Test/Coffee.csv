@@ -1,11 +1,11 @@
-Id,PostTypeId,AcceptedAnswerId,CreationDate,Score,ViewCount,Body,OwnerUserId,LastActivityDate,Title,Tags,AnswerCount,CommentCount
-22,2,,2015-01-27T21:12:35.147,7,,"<p><strong>In general consistency is more important than a specific setting.</strong></p>
+Body
+"<p><strong>In general consistency is more important than a specific setting.</strong></p>
 
 <p>The key is that you can actually control both the size of the grind and actually achieve a homogenous grind allowing you to increase the consistency in the coffee when you brew it as you can assertively control the service area being exposed during the brewing process. Since you stated that you have a burr grinder you are off to a great start. There is no defined, agreed upon coarseness of grind for pour over coffee, but I would definitely say that you would want a courser grind than you would for espresso. Experiment to find the sweet spot by making sure you use exactly the same water, coffee bean roast, and number of beans (and thus volume) between different grind settings to find what meets your flavor best. </p>
 
 <p>If you are particularly worried about ""getting it right"" or do not want to do a ton of experimentation an easy and quick way to jump to a grid would simply to go to a coffee shop, buy a bag of whole beans, ask them to grind it and query them for how coarse of a grind is. </p>
-",24,2015-01-27T21:12:35.147,,,,0
-23,2,,2015-01-27T21:13:24.420,13,,"<p><strong>Short reason:</strong> Tradition conflicting with modern brewing practices.</p>
+"
+"<p><strong>Short reason:</strong> Tradition conflicting with modern brewing practices.</p>
 
 <p><strong>Long reason:</strong> This is more a result of an industry-wide legacy when purchasing equipment, where coffee shop owners will pick up mechanically dosed grinders instead of doserless, or electrically metered models because ""that's how it's been done,"" or because the technology simply wasn't  affordable until simple microcontrollers became cheap. </p>
 
@@ -16,48 +16,48 @@ Id,PostTypeId,AcceptedAnswerId,CreationDate,Score,ViewCount,Body,OwnerUserId,Las
 <p>So when a Third Wave coffee shop grinds using a doser, the Barista rapid-fires the dosing lever, essentially moving the coffee straight into the portafilter.</p>
 
 <p>A better plan is just to use a direct-dosing grinder where the grounds are metered by time or weight straight into the filter.  Advances in the packaging options for load cell sensors and simple controllers have made this somewhat common in both consumer and commercial equipment.</p>
-",26,2015-01-27T21:13:24.420,,,,0
-24,2,,2015-01-27T21:17:34.843,27,,"<p><strong>In a cool, dark, dry, place and whenever possible vacuum sealed.</strong></p>
+"
+"<p><strong>In a cool, dark, dry, place and whenever possible vacuum sealed.</strong></p>
 
 <p>The oils in roasted coffee degrade as they are exposed to air (oxidization) as well as heat. As with just about any foodstuff moisture accelerates the spoiling process as well. You should store your coffee in completely sealed, insulated, opaque containers. If you have the ability, vacuum pump the air out of the container for ultimate shelf-stability. Even without vacuum storage you can preserve beans for a long time by placing them inside a ziplock bag or coffee bag with a 1-way air seal and pushing as much air out as possible and then following the above method of airtight, dark and cool storage. Following these guidelines should help to ensure the freshness and flavor of the beans for as long as possible. </p>
-",24,2015-12-24T18:51:22.207,,,,0
-25,1,267,2015-01-27T21:17:51.653,4,61,"<p>Is it possible to create a cleaning agent to use on a basic drip coffee maker using household items? If so, what ingredients are needed and in what ratios? </p>
+"
+"<p>Is it possible to create a cleaning agent to use on a basic drip coffee maker using household items? If so, what ingredients are needed and in what ratios? </p>
 
 <p>I am mostly concerned with cleaning the insides that I believe are made from plastic. The carafe I can clean separately. I know that there are products on the market, but I am interested in homemade solutions.</p>
-",23,2015-01-30T17:37:38.737,homemade cleaner for basic drip coffee maker,<cleaning>,1,8
-26,1,,2015-01-27T21:18:15.860,4,33,"<p>In my, somewhat limited, experience with espresso machines they generally only produce a few shots of espresso per load. </p>
+"
+"<p>In my, somewhat limited, experience with espresso machines they generally only produce a few shots of espresso per load. </p>
 
 <p>Is this a technical limitation of espresso making or is it just that the manufactures expect normal, healthy, people to only drink a shot or two at a time?</p>
 
 <p>To put it another way:</p>
 
 <p>Are there machines out there that are capable of producing a pot of espresso or does the process require small batches?</p>
-",31,2015-01-27T21:29:26.020,Upward size limit for espresso makers,<espresso-machine><brewing-process>,2,0
-27,2,,2015-01-27T21:22:44.583,4,,"<p>The volume of espresso that your machine makes, is limited to the size of it's boiler and it's ability to replenish, heat the water, and deliver the force to brew the espresso. Working on commercial machines, I've seen boilers last 5+ minutes before losing temperature. With such a machine, your coffee would probably run out of desirable flavor before you'd make a full <em>pot</em> of espresso.</p>
-",17,2015-01-27T21:22:44.583,,,,0
-28,1,32,2015-01-27T21:23:20.747,4,75,"<p>I switched from a modestly priced blade grinder to a moderately priced cone grinder because the results were inconsistent  (some very fine powder and some only fragmented beans mixed with usable grounds).</p>
+"
+"<p>The volume of espresso that your machine makes, is limited to the size of it's boiler and it's ability to replenish, heat the water, and deliver the force to brew the espresso. Working on commercial machines, I've seen boilers last 5+ minutes before losing temperature. With such a machine, your coffee would probably run out of desirable flavor before you'd make a full <em>pot</em> of espresso.</p>
+"
+"<p>I switched from a modestly priced blade grinder to a moderately priced cone grinder because the results were inconsistent  (some very fine powder and some only fragmented beans mixed with usable grounds).</p>
 
 <p>Will I have more consistency and control if I switch to a high-end cone grinder? I'm thinking about a refurbished restaurant grade grinder, not an industrial grade machine as one might find at a Starbucks or boutique roaster.</p>
-",34,2015-01-28T02:58:36.360,Are high-end cone grinders adjustable?,<grinder><burr-grinder>,3,0
-29,1,34,2015-01-27T21:27:09.077,13,182,"<p>I'm aiming to reduce my caffeine intake, but don't want to drop coffee altogether. What roasts / beans release the least amount of caffeine into my body when drank?</p>
-",25,2015-01-31T17:51:17.190,What type of roast has the lowest caffeine content?,<roasting><caffeine><beans>,3,1
-30,2,,2015-01-27T21:29:26.020,5,,"<p>The key here is <em>extraction</em> from the espresso coffee. Only so much desirable flavor and body can be pulled from a puck of coffee. So, then you might say, why not make the puck bigger? Well then that would force the water through a thicker puck, causing the extraction to be slower and longer, giving bitter flavors. The amount of pressure needed to make a desirable ""pot of espresso"" with a larger ""puck"" (or probably more accurately, a ""slab"" in this case) would be a wild safety hazard, since the pressure would be too immense for any cost-effective equipment to handle. </p>
+"
+"<p>I'm aiming to reduce my caffeine intake, but don't want to drop coffee altogether. What roasts / beans release the least amount of caffeine into my body when drank?</p>
+"
+"<p>The key here is <em>extraction</em> from the espresso coffee. Only so much desirable flavor and body can be pulled from a puck of coffee. So, then you might say, why not make the puck bigger? Well then that would force the water through a thicker puck, causing the extraction to be slower and longer, giving bitter flavors. The amount of pressure needed to make a desirable ""pot of espresso"" with a larger ""puck"" (or probably more accurately, a ""slab"" in this case) would be a wild safety hazard, since the pressure would be too immense for any cost-effective equipment to handle. </p>
 
 <p>So, is it a technical limitation? Yes and no. I think it has more to do with being a tried process that gives repeatable, scientific results. </p>
-",4,2015-01-27T21:29:26.020,,,,1
-31,2,,2015-01-27T21:30:30.067,3,,"<p><strong>Yes.</strong></p>
+"
+"<p><strong>Yes.</strong></p>
 
 <p>What you describe as a conical grinder is also known as a burr grinder. Burr grinders are important because they allow you to create ground coffee that is both homogenous and set to a specific granular size/coarseness.  This is a key feature and selling point of these grinders and it easily allows the user to grind for espresso one moment and drip coffee the next.</p>
-",24,2015-01-27T21:30:30.067,,,,0
-32,2,,2015-01-27T21:33:04.337,4,,"<p>Yes, high end grinders are generally adjustable. Some even have macro and micro adjustments. For example the <a href=""https://www.baratza.com/flat-burr-grinders/vario-grinder/"" rel=""nofollow"">Baratza Vario grinder</a> </p>
+"
+"<p>Yes, high end grinders are generally adjustable. Some even have macro and micro adjustments. For example the <a href=""https://www.baratza.com/flat-burr-grinders/vario-grinder/"" rel=""nofollow"">Baratza Vario grinder</a> </p>
 
 <p>Hand grinders are also adjustable, and provide a good grind. See the <a href=""http://www.hario.jp/coffee/grinder.html"" rel=""nofollow"">Hario range</a></p>
 
 <p>The larger commercial grinders are sometimes aimed more at bulk output than at a precise and consistent grind. They grind the coffee very quickly, which may not be the quality you are looking for. Some people prefer grinders that operate at a lower speed so that the temperature of the burrs stays low, reducing the chance of the grind getting over roasted</p>
 
 <p><a href=""http://gearpatrol.com/2013/02/25/grind-it-out-10-best-coffee-grinders/"" rel=""nofollow"">Here's a list</a> of mid to high end grinders. You will notice that they all have adjustments.</p>
-",39,2015-01-28T00:03:33.897,,,,0
-33,2,,2015-01-27T21:35:46.843,7,,"<p><strong>Temperature affects extraction rate, but also varies between compounds in the coffee beans.</strong></p>
+"
+"<p><strong>Temperature affects extraction rate, but also varies between compounds in the coffee beans.</strong></p>
 
 <blockquote>
   <p>Coffee grounds contain a hodgepodge of volatile and non-volatile components, such as various oils, acids, and other aromatic molecules [2]. Collectively, these compounds that are found in coffee grounds are referred to as “coffee solubles” and significantly contribute to coffee flavor [2]. Brewing is the process of extracting these components from the grounds, so coffee beverages are technically a solution of coffee solubles and water. Given that coffee grounds are used in both of our brewing methods, the principle variables are temperature and time.</p>
@@ -72,8 +72,8 @@ Id,PostTypeId,AcceptedAnswerId,CreationDate,Score,ViewCount,Body,OwnerUserId,Las
   
   <p>To note, brew time does not determine caffeine content, nor does bitterness indicate coffee strength. Caffeine is extracted early in the brewing process, so extending brew time, by either method, would only result in over-extracted coffee [1]. Coffee “strength” is defined as the amount of dissolved coffee solubles per unit of coffee volume [1]. On that train of thought, cold brew certainly produces stronger coffee, given that the brewing process purposely concentrates the coffee solubles. Though, keep in mind that rarely anyone drinks cold brew coffee straight up; many enjoy this smooth drink diluted with milk or water. - <a href=""https://scienceandfooducla.wordpress.com/2014/08/19/coffee-brewing-chemistry-hot-brew-and-cold-brew/"">https://scienceandfooducla.wordpress.com/2014/08/19/coffee-brewing-chemistry-hot-brew-and-cold-brew/</a></p>
 </blockquote>
-",24,2015-01-27T21:35:46.843,,,,0
-34,2,,2015-01-27T21:38:40.710,13,,"<p>In general, <strong>darker, arabica</strong> roasts have less caffeine. Arabica (as opposed to robusta) inherently has less caffeine in it naturally, and darker coffees have less caffeine since they have been roasted longer or at higher temperatures, <strike>essentially ""burning"" the caffeine out of the bean.
+"
+"<p>In general, <strong>darker, arabica</strong> roasts have less caffeine. Arabica (as opposed to robusta) inherently has less caffeine in it naturally, and darker coffees have less caffeine since they have been roasted longer or at higher temperatures, <strike>essentially ""burning"" the caffeine out of the bean.
 </strike></p>
 
 <p><strong>EDIT</strong></p>
@@ -89,8 +89,8 @@ Id,PostTypeId,AcceptedAnswerId,CreationDate,Score,ViewCount,Body,OwnerUserId,Las
 <blockquote>
   <p>It is a common misconception that darker roasts have less caffeine.  Caffeine's melting point is 455F which is well above what most beans reach during the roasting process.  Essentially, caffeine content changes because the mass/density of the beans change (they lose water and undergo changes in the roasting process).   If you measure your coffee by volume, dense greener beans will have more caffeine.  If you measure by weight, darker roasted beans will have more caffeine.</p>
 </blockquote>
-",4,2015-01-28T00:31:20.003,,,,4
-35,2,,2015-01-27T21:50:40.847,9,,"<p>Bitterness comes from over-extracting coffee. Over-extraction is mainly caused by:</p>
+"
+"<p>Bitterness comes from over-extracting coffee. Over-extraction is mainly caused by:</p>
 
 <p>1) brewing for too long: In the beginning of the brewing stage acidic flavors are first extracted, followed by sweetness.  And towards the end of the brew, only bitter flavors are extracted.  The trick is to stop the brewing just after all the sweetness is extracted.</p>
 
@@ -111,26 +111,26 @@ Id,PostTypeId,AcceptedAnswerId,CreationDate,Score,ViewCount,Body,OwnerUserId,Las
 <p>2) Grind size being to small: small grind size means larger total surface area of the particles.  Therefore, flavors get extracted more quickly and can lead to over-extraction. </p>
 
 <p>The optimal brew time and grind size vary depending on the method (french press, manual pour, espresso etc..), and you'll need to experiment to get it just right.  The type of coffee bean also matters, but probably to a lesser degree than the above two factors.</p>
-",42,2015-03-10T22:55:45.463,,,,2
-36,1,,2015-01-27T21:52:59.630,8,44,"<p>I just recently purchased an <a href=""http://www.wholelattelove.com/products/ecm-technika-iv-espresso-machine"">ECM Technika</a> and have noticed recently that my shots have been fairly inconsistent. A friend suggested that I backflush the machine, but didn't have a chance to explain to me exactly <em>how</em> to do that. Can anyone tell me how to backflush my machine? How often should I do this? </p>
-",4,2015-01-27T22:34:14.187,How do I backflush my espresso machine?,<maintenance>,1,1
-37,2,,2015-01-27T21:58:54.353,12,,"<p>By having a thin spout, you can more finely control the flow rate and where the water lands.    When making pour-over coffee, you want to control the water level in the cone to control the brew time and evenly extract coffee.  Also, water needs to be poured carefully onto the middle of the cone so that the water doesn't run down the side of the cone without touching the coffee grounds.</p>
-",42,2015-01-27T21:58:54.353,,,,1
-38,1,,2015-01-27T22:03:02.643,6,76,"<p>I don't have a coffee press so I just brew ground coffee as you would tea: in the cup. </p>
+"
+"<p>I just recently purchased an <a href=""http://www.wholelattelove.com/products/ecm-technika-iv-espresso-machine"">ECM Technika</a> and have noticed recently that my shots have been fairly inconsistent. A friend suggested that I backflush the machine, but didn't have a chance to explain to me exactly <em>how</em> to do that. Can anyone tell me how to backflush my machine? How often should I do this? </p>
+"
+"<p>By having a thin spout, you can more finely control the flow rate and where the water lands.    When making pour-over coffee, you want to control the water level in the cone to control the brew time and evenly extract coffee.  Also, water needs to be poured carefully onto the middle of the cone so that the water doesn't run down the side of the cone without touching the coffee grounds.</p>
+"
+"<p>I don't have a coffee press so I just brew ground coffee as you would tea: in the cup. </p>
 
 <p>How hot should be the water to brew with this method? Should it be boiling, or a lower temperature?</p>
-",48,2015-01-27T22:24:09.617,How hot should water be to brew ground coffee directly in a cup?,<ground-coffee><brewing-process>,3,0
-39,1,41,2015-01-27T22:07:46.300,28,511,"<p>When I bought my aeropress, it came with this weird hexagon thingy: <img src=""http://i.imgur.com/SwXYrHa.jpg"" alt=""hexagon thingy"" title=""aeropress funnel""></p>
+"
+"<p>When I bought my aeropress, it came with this weird hexagon thingy: <img src=""http://i.imgur.com/SwXYrHa.jpg"" alt=""hexagon thingy"" title=""aeropress funnel""></p>
 
 <p>What is it for? </p>
-",39,2015-07-17T14:24:30.953,What is the hexagon funnel shaped thing that came with my aeropress for?,<aeropress><identify-this>,1,0
-40,1,,2015-01-27T22:08:34.497,1,14,"<p>I'm buying ground coffee in the packages, which unfortunately are 0,5 kg (the smallest ones). And they last for a few months for me. At the end of that period, the coffee has no aroma anymore :(</p>
+"
+"<p>I'm buying ground coffee in the packages, which unfortunately are 0,5 kg (the smallest ones). And they last for a few months for me. At the end of that period, the coffee has no aroma anymore :(</p>
 
 <p>Buying full grains coffee and melting it is not an option - I don't have a mill or an express, and I'm living in rent appartment so everyting that won't fit to my backpack will have to be thrown away.</p>
 
 <p>Would closing the opened package of ground coffee in clip&amp;close container help to prevent the aroma?</p>
-",48,2015-01-27T22:08:34.497,Does closing ground coffee in clip&close container help preserve the aroma?,<ground-coffee><storage><aroma>,0,0
-41,2,,2015-01-27T22:08:50.447,43,,"<p>It took me an embarrassingly long time to realize the purpose of this hexagon shaped funnel, so I am sharing this via a self posted answer.</p>
+"
+"<p>It took me an embarrassingly long time to realize the purpose of this hexagon shaped funnel, so I am sharing this via a self posted answer.</p>
 
 <p>The hexagon funnel has three purposes:</p>
 
@@ -139,24 +139,24 @@ Id,PostTypeId,AcceptedAnswerId,CreationDate,Score,ViewCount,Body,OwnerUserId,Las
 <li><p>It is a funnel for cups with a small opening at the top. The image shows a shot-glass as an example. Trying to use an aeropress with a cup that is too small sucks. <img src=""http://i.imgur.com/e0i01gQ.jpg"" alt=""as a funnel for small cups""></p></li>
 <li><p>It is a stand, so when your aeropress is stowed, it all neatly stacks together. <img src=""http://i.imgur.com/FpOtULh.jpg"" alt=""stacked aeropress""></p></li>
 </ol>
-",39,2015-07-17T14:24:30.953,,,,5
-42,2,,2015-01-27T22:11:07.213,2,,"<p>I'm no expert, but a frequent enjoyer, and I also use freshly ground coffee in a cup, then pour water over it. <strong>I always go with boiling water and have never heard of any reason to change.</strong> My coffee tastes great too, so I think I'm doing it right.</p>
+"
+"<p>I'm no expert, but a frequent enjoyer, and I also use freshly ground coffee in a cup, then pour water over it. <strong>I always go with boiling water and have never heard of any reason to change.</strong> My coffee tastes great too, so I think I'm doing it right.</p>
 
 <p>By the way, in my country (Sweden) we call that a 'Turkish' brew.</p>
-",52,2015-01-27T22:11:07.213,,,,1
-43,1,,2015-01-27T22:11:21.803,7,93,"<p>I'm recently drinking a lot of coffee at work. I'm worried about the health issues - lost of calcium from the bones.</p>
+"
+"<p>I'm recently drinking a lot of coffee at work. I'm worried about the health issues - lost of calcium from the bones.</p>
 
 <p>How can I prevent calcium loss? Drinking coffee with milk is out of option for me - I'm lactose intolerant.</p>
-",48,2015-01-29T22:30:05.193,How to prevent calcium loss when drinking a lot of coffee?,<health>,1,3
-44,1,,2015-01-27T22:15:06.293,5,1231,"<p>The coffee package I've bought has 'strength rating'. It's 3 out of 5. </p>
+"
+"<p>The coffee package I've bought has 'strength rating'. It's 3 out of 5. </p>
 
 <p>I wonder what that 'strength' means? How it is measured? Does it relate to the caffeine amount?</p>
 
 <p>The coffee package is from Germany, and from what I've seen, all coffee sorts have this rating, so it's a kind of standard.</p>
-",48,2015-03-31T14:50:18.967,What does the 'strength' mean (in numbers)?,<rating><strength>,3,1
-45,2,,2015-01-27T22:15:19.220,7,,"<p>Your method most closely resembles <a href=""http://en.wikipedia.org/wiki/Turkish_coffee"">Turkish Coffee</a>, which is suggested to be served at hot, <strong>but not boiling</strong> temperatures. Since the exposure to the grounds is so direct, it's easy to burn the coffee at boiling temperatures. You want a full body, but not a burnt taste (yuck!) <a href=""http://www.turkishcoffeeworld.com/How-to-make-Turkish-Coffee-s/54.htm"">Turkish Coffee World</a> recommends about 158 degrees Fahrenheit or 70 degrees Celsius.</p>
-",4,2015-01-27T22:15:19.220,,,,0
-46,2,,2015-01-27T22:18:54.370,15,,"<p>There are a lot of factors that contribute to the bitterness of coffee. Some of these have to do with the concentration of various compounds in the coffee and the roasting process, but the way you brew the coffee can make a big difference as well.</p>
+"
+"<p>Your method most closely resembles <a href=""http://en.wikipedia.org/wiki/Turkish_coffee"">Turkish Coffee</a>, which is suggested to be served at hot, <strong>but not boiling</strong> temperatures. Since the exposure to the grounds is so direct, it's easy to burn the coffee at boiling temperatures. You want a full body, but not a burnt taste (yuck!) <a href=""http://www.turkishcoffeeworld.com/How-to-make-Turkish-Coffee-s/54.htm"">Turkish Coffee World</a> recommends about 158 degrees Fahrenheit or 70 degrees Celsius.</p>
+"
+"<p>There are a lot of factors that contribute to the bitterness of coffee. Some of these have to do with the concentration of various compounds in the coffee and the roasting process, but the way you brew the coffee can make a big difference as well.</p>
 
 <p>Assuming that you are not going to be harvesting and roasting your own coffee, we can focus on the brewing process.</p>
 
@@ -193,18 +193,18 @@ Id,PostTypeId,AcceptedAnswerId,CreationDate,Score,ViewCount,Body,OwnerUserId,Las
 <p><a href=""http://www.coffeeresearch.org/science/bittermain.htm"">http://www.coffeeresearch.org/science/bittermain.htm</a></p>
 
 <p><a href=""http://www.thekitchn.com/coffee-basics-the-difference-b-41949"">http://www.thekitchn.com/coffee-basics-the-difference-b-41949</a></p>
-",38,2015-01-27T22:37:40.693,,,,0
-48,1,57,2015-01-27T22:20:11.957,10,1051,"<p>Perhaps my question should be ""What is the best type of grinder to use at my desk if I work in a cubicle and use a French Press?"". </p>
+"
+"<p>Perhaps my question should be ""What is the best type of grinder to use at my desk if I work in a cubicle and use a French Press?"". </p>
 
 <p>I have tried finding decibel measurements on Amazon's website, but most of the coffee grinders listed don't specify them.</p>
-",44,2016-02-15T18:31:39.307,Which type of coffee grinder is the quietest?,<grinder>,5,2
-49,2,,2015-01-27T22:22:40.400,2,,"<p>A manual coffee grinder like the ""Hario Ceramic Coffee Mill"".</p>
-",54,2015-01-27T22:22:40.400,,,,1
-50,2,,2015-01-27T22:24:09.617,-1,,"<p>I go with around 165 degrees Fahrenheight (73 C).</p>
-",54,2015-01-27T22:24:09.617,,,,1
-51,2,,2015-01-27T22:30:48.523,2,,"<p><a href=""http://www.wholelattelove.com"" rel=""nofollow"">WholeLatteLove.com</a> actually provides decibel ratings for many of their coffee grinders such as the <a href=""http://www.wholelattelove.com/products/mazzer-mini-electronic-type-a-coffee-grinder"" rel=""nofollow"">Mazzer Mini</a>. Perhaps you could compare some grinders there.</p>
-",4,2015-12-03T06:03:50.980,,,,0
-52,1,,2015-01-27T22:31:05.283,4,211,"<p>Coffee flavor is often described in terms of:</p>
+"
+"<p>A manual coffee grinder like the ""Hario Ceramic Coffee Mill"".</p>
+"
+"<p>I go with around 165 degrees Fahrenheight (73 C).</p>
+"
+"<p><a href=""http://www.wholelattelove.com"" rel=""nofollow"">WholeLatteLove.com</a> actually provides decibel ratings for many of their coffee grinders such as the <a href=""http://www.wholelattelove.com/products/mazzer-mini-electronic-type-a-coffee-grinder"" rel=""nofollow"">Mazzer Mini</a>. Perhaps you could compare some grinders there.</p>
+"
+"<p>Coffee flavor is often described in terms of:</p>
 
 <ol>
 <li>Roast darkness (light to dark)</li>
@@ -213,14 +213,14 @@ Id,PostTypeId,AcceptedAnswerId,CreationDate,Score,ViewCount,Body,OwnerUserId,Las
 </ol>
 
 <p>I have a vague understanding of some of these, but am unclear especially on body. Could someone explain these a bit and show how they differ from one another?</p>
-",54,2015-01-27T23:21:50.437,Roast vs Body vs Acidity,<flavor>,2,1
-53,1,80,2015-01-27T22:33:51.377,9,1052,"<p>I've heard that the V60 is better for light roasts and the Aeropress is better for Medium to Dark roasts, but could someone describe how these two brewing devices affect the flavor of coffee brewed for the different roasts (and which, in turn, would be preferable)?</p>
-",54,2015-07-03T00:53:30.150,How V60 and Aeropress affect flavor,<flavor><aeropress><v60>,1,1
-54,1,77,2015-01-27T22:33:56.587,6,82,"<p>I often find that some methods of brewing for a particular implement differ on whether or not to stir the grounds at some point in the process.</p>
+"
+"<p>I've heard that the V60 is better for light roasts and the Aeropress is better for Medium to Dark roasts, but could someone describe how these two brewing devices affect the flavor of coffee brewed for the different roasts (and which, in turn, would be preferable)?</p>
+"
+"<p>I often find that some methods of brewing for a particular implement differ on whether or not to stir the grounds at some point in the process.</p>
 
 <p>I understand that stirring while brewing should increase the extraction, but when and why would I use stirring to do it instead of a finer grind, longer brew, higher temp, etc?</p>
-",58,2015-01-27T23:51:43.470,When to use stirring to increase extraction?,<brewing-process>,1,0
-55,2,,2015-01-27T22:34:14.187,9,,"<p>Backflushing is a fairly straightforward procedure. You only need <strong>two</strong> things:</p>
+"
+"<p>Backflushing is a fairly straightforward procedure. You only need <strong>two</strong> things:</p>
 
 <ul>
 <li>a <a href=""http://www.google.co.uk/imgres?imgurl=http://i.ebayimg.com/00/s/MTE1NFgxNjAw/z/fZIAAOxy6MBSSlAz/%2524T2eC16F,!zkFJCOFBk,kBSSl!ys6z!~~60_35.JPG&amp;imgrefurl=http://www.ebay.com/itm/STAINLESS-STEEL-BLIND-FILTER-BACKFLUSH-DISK-/271641948190&amp;h=216&amp;w=300&amp;tbnid=ynq9S5wUZeePwM:&amp;zoom=1&amp;docid=e99XOeBEvG5xzM&amp;itg=1&amp;ei=KhHIVISeIJTnaoXWgfgH&amp;tbm=isch&amp;ved=0CCwQMygLMAs"">backflushing disc</a> </li>
@@ -242,48 +242,48 @@ Id,PostTypeId,AcceptedAnswerId,CreationDate,Score,ViewCount,Body,OwnerUserId,Las
 <p>After this it is a good idea to run one espresso shot through the machine to clear everything out and not leave any residue.</p>
 
 <p>You can find further details <a href=""http://www.home-barista.com/espresso-machine-cleaning.html"">here</a></p>
-",57,2015-01-27T22:34:14.187,,,,1
-56,1,,2015-01-27T22:36:12.250,15,216,"<p>I am a heavy coffee user and I want to know what's in my coffee and therefore I'd like to grow coffee in my home.</p>
+"
+"<p>I am a heavy coffee user and I want to know what's in my coffee and therefore I'd like to grow coffee in my home.</p>
 
 <p>Is it possible to grow coffee in an apartment?</p>
-",65,2015-02-18T12:29:46.080,How to grow coffee at home?,<growing><farming>,2,5
-57,2,,2015-01-27T22:36:32.920,11,,"<p>First, lets ignore blad grinders entirely.  Any grinder that doesn't have a motor will be relatively quiet.  You'll be at the mercy of the crunching beans, but that's it.  Add to this that the more the grinder weighs, or the more ""heft"" it has to it, the quieter it will typically be to the additional mass damping any vibration.  When adding a motor to the mix, each step between the motor and the burrs adds an opportunity for noise.  As such, a direct drive grinder will typically be quieter than anything involving a gearbox.   </p>
+"
+"<p>First, lets ignore blad grinders entirely.  Any grinder that doesn't have a motor will be relatively quiet.  You'll be at the mercy of the crunching beans, but that's it.  Add to this that the more the grinder weighs, or the more ""heft"" it has to it, the quieter it will typically be to the additional mass damping any vibration.  When adding a motor to the mix, each step between the motor and the burrs adds an opportunity for noise.  As such, a direct drive grinder will typically be quieter than anything involving a gearbox.   </p>
 
 <p><strong>The pecking order is basically...</strong></p>
 
 <p>Hand Grinder --> Direct Drive Flat Burr --> Direct Drive Conical Burr --> Gear-Reduced Burr</p>
 
 <p>While Decibel ratings are available from most manufacturers, they're difficult to translate into a subjective estimate of ""harshness.""  I deal with these regularly and found that some of my favorite grinders are technically louder than several others, including the Baratza Vario; The difference is that they have a much more mellow drone rather than the gear motor's quieter whine.</p>
-",26,2015-01-27T22:36:32.920,,,,2
-58,1,165,2015-01-27T22:41:45.373,22,4245,"<p>I know a number of people have become fairly capable at getting a nice amount of crema at the end of the process of making a cup with their Aeropress.</p>
+"
+"<p>I know a number of people have become fairly capable at getting a nice amount of crema at the end of the process of making a cup with their Aeropress.</p>
 
 <p>I, however, am getting just a very thin, partial layer at best. I've experimented with pressure, and somewhat with water temperature.</p>
 
 <p>Wondering if there's a magic bullet, or a good list of bullet points of things to do to maximize crema?</p>
-",68,2016-01-18T15:33:14.687,What's the most effective way of generating crema from an Aeropress?,<aeropress><crema>,4,0
-59,2,,2015-01-27T22:42:44.507,8,,"<p>Coming from Germany myself I have seen this rating only on a single brand of coffee. There is no standard for this (even though us Germans seem to like standardizations), but basically strength of the coffee is about the inherent bitterness and caffeine content you get out of it.</p>
+"
+"<p>Coming from Germany myself I have seen this rating only on a single brand of coffee. There is no standard for this (even though us Germans seem to like standardizations), but basically strength of the coffee is about the inherent bitterness and caffeine content you get out of it.</p>
 
 <p>The stonger a coffee the more caffeine and also the more bitterness you will usually get.</p>
-",46,2015-01-27T22:42:44.507,,,,1
-60,1,61,2015-01-27T22:49:00.850,6,153,"<p>I have visited Starbucks lots of times for their delicious coffee. As I stand in line, I hear people order coffee with like extra <strong><em>shots</em></strong>. I tried searching up what it means but to no avail.  Here's an example of what I hear people say:</p>
+"
+"<p>I have visited Starbucks lots of times for their delicious coffee. As I stand in line, I hear people order coffee with like extra <strong><em>shots</em></strong>. I tried searching up what it means but to no avail.  Here's an example of what I hear people say:</p>
 
 <blockquote>
   <p>I would like some coffee with two extra shots please!</p>
 </blockquote>
 
 <p>What does the word ""shot"" mean in the coffee language? Yes, I have looked in the dictionary but no help was given.</p>
-",75,2015-02-17T21:11:39.577,What is a shot?,<untagged>,2,0
-61,2,,2015-01-27T22:53:45.747,17,,"<p>They are referring to a ""shot"" of espresso.  The <a href=""http://en.wikipedia.org/wiki/Espresso"">Italian standards</a> are that it is a volume of 25 mL  plus or minus ten percent.  Additional shots in a drink indicate more espresso flavor and a higher caffeine content.</p>
-",76,2015-01-27T22:53:45.747,,,,1
-62,2,,2015-01-27T22:53:54.243,5,,"<p>A ""shot"" in this context usually means one ounce, or so, of espresso. So a cup of coffee with two extra shots would be a cup of coffee with approximately two ounces of espresso added.</p>
-",31,2015-01-27T22:53:54.243,,,,0
-63,1,68,2015-01-27T22:54:44.590,5,11500,"<p>I am often asked whether these three drinks have the same milk quantity and/or consistency and where the difference really lies between these preparations.</p>
+"
+"<p>They are referring to a ""shot"" of espresso.  The <a href=""http://en.wikipedia.org/wiki/Espresso"">Italian standards</a> are that it is a volume of 25 mL  plus or minus ten percent.  Additional shots in a drink indicate more espresso flavor and a higher caffeine content.</p>
+"
+"<p>A ""shot"" in this context usually means one ounce, or so, of espresso. So a cup of coffee with two extra shots would be a cup of coffee with approximately two ounces of espresso added.</p>
+"
+"<p>I am often asked whether these three drinks have the same milk quantity and/or consistency and where the difference really lies between these preparations.</p>
 
 <p>I would assume that quantity is increased respectively (cortado &lt; cappuccino &lt; latte) but some claim that there is more milk in the cortado than the cappuccino.</p>
 
 <p>As for the consistency, wouldn't the cappuccino have a more foamy milk than the other two?</p>
-",79,2015-01-27T23:18:14.363,"Milk quantity and consistency in cortado, cappuccino and latte",<cappuccino><latte><milk>,1,0
-64,2,,2015-01-27T23:02:38.320,10,,"<p>It is possible to grow coffee indoors. If allowed to grow as a tree they can reach 8 feet tall but if trimmed occasionally you can get the plant to grow more like a bush around 3-4 feet. This will change some based on the exact type.</p>
+"
+"<p>It is possible to grow coffee indoors. If allowed to grow as a tree they can reach 8 feet tall but if trimmed occasionally you can get the plant to grow more like a bush around 3-4 feet. This will change some based on the exact type.</p>
 
 <p>Coffee plants prefer shade with a couple hours of direct sunlight in the morning. Keeping it by a window should be about right. Depending on your climate you want to be careful taking it outside during winter.</p>
 
@@ -298,20 +298,20 @@ Id,PostTypeId,AcceptedAnswerId,CreationDate,Score,ViewCount,Body,OwnerUserId,Las
 <blockquote>
   <p>One large apartment plant will only produce enough coffee for a few cups worth each year, and that's after years of growth. They do look good, though. My point was, indoor coffee plants aren't that effective. Outdoors, a good plant will produce around 2-3 lbs. of grean beans per year. They are usually planted about 8'x8' apart, or a near equivalent, so 680 plants per acre, = around 1700 lbs of green coffee per acre per year, under good conditions.</p>
 </blockquote>
-",23,2015-02-18T12:29:46.080,,,,1
-66,1,181,2015-01-27T23:09:27.093,18,1444,"<p>I don't like coffees with an acidic/sour taste. However, when buying coffee, the only ""rating"" one gets is often how ""strong"" the coffee is, and that does not help me. Is there something else I can go on? Say, place of origin, or certain varieties that aren't acidic in taste?</p>
-",52,2015-02-17T23:38:05.800,What coffees are the least acidic?,<flavor><rating><bean-varieties>,4,0
-67,2,,2015-01-27T23:12:44.160,1,,"<p>Body can sometimes also be described as ""mouth feel"".  How ""heavy"" the coffee feels in ones mouth.  Roast darkness varies, of course, with the roast level.  However, body and acidity vary not only with roast level, but also with the variety of bean itself being roasted.  Different varieties of coffee will have varying different levels of body and acidity, which is further affected by the roast level applied to the beans.</p>
-",76,2015-01-27T23:12:44.160,,,,0
-68,2,,2015-01-27T23:18:14.363,6,,"<p><strong>There's a chart for that!</strong></p>
+"
+"<p>I don't like coffees with an acidic/sour taste. However, when buying coffee, the only ""rating"" one gets is often how ""strong"" the coffee is, and that does not help me. Is there something else I can go on? Say, place of origin, or certain varieties that aren't acidic in taste?</p>
+"
+"<p>Body can sometimes also be described as ""mouth feel"".  How ""heavy"" the coffee feels in ones mouth.  Roast darkness varies, of course, with the roast level.  However, body and acidity vary not only with roast level, but also with the variety of bean itself being roasted.  Different varieties of coffee will have varying different levels of body and acidity, which is further affected by the roast level applied to the beans.</p>
+"
+"<p><strong>There's a chart for that!</strong></p>
 
 <p>Here's a <a href=""http://cdn.shopify.com/s/files/1/0211/4926/files/PopChartLab__Expresso_Large506.jpg?1290"">link</a> to it, but I've also included an image below.</p>
 
 <p>There could be some argument over cappuccino vs. latte as to which is ""creamier"" as the cappuccino certainly has more mil foam, but the latte has much more milk by volume and by ratio. On the whole though I'd say the latte is a less strong drink with a creamier texture even if the cappuccino is thicker. </p>
 
 <p><img src=""http://i.stack.imgur.com/PPKWM.jpg"" alt=""espresso based beverage chart""></p>
-",24,2015-01-27T23:18:14.363,,,,1
-69,2,,2015-01-27T23:21:50.437,2,,"<p>I'm not really an expert, but in basic terms:</p>
+"
+"<p>I'm not really an expert, but in basic terms:</p>
 
 <p>Roast darkness: </p>
 
@@ -332,12 +332,12 @@ Id,PostTypeId,AcceptedAnswerId,CreationDate,Score,ViewCount,Body,OwnerUserId,Las
 </ul>
 
 <p>Now <a href=""http://coffee.stackexchange.com/questions/52/roast-vs-body-vs-acidity#comment56_52"">as mentioned in the comments</a> these terms are really painfully relative, and somewhat rendered meaningless by an onslaught of advertisers claiming that their coffee is ""smooth dark and full-bodied"" regardless of the real characteristics. </p>
-",31,2015-01-27T23:21:50.437,,,,0
-70,1,,2015-01-27T23:22:28.207,20,1962,"<p>Whenever I brew coffee with a French press, I tend to get a significant amount of grind left near the bottom of the cup, making the last bit of coffee far less enjoyable - mostly regardless, it seems, of how finely I grind the beans. Is there any method or tool I can use to minimize the amount of grind left at the bottom of the cup?</p>
-",85,2015-06-24T19:18:12.057,How can I minimize the amount of grounds at the bottom of my French press coffee?,<ground-coffee><french-press>,8,2
-71,2,,2015-01-27T23:22:36.657,8,,"<p>I find that most of the Brazil dry processed coffee I get is very smooth or ""low acid"".  However, in general coffees that are darker roasted will have less acid as the acids are destroyed in the roasting process.   You may look at the description as well.  Many of the fruit notes that some coffees advertise are coming from acid compounds that may overall contribute to an acidic feel of the coffee.</p>
-",76,2015-01-27T23:22:36.657,,,,1
-72,2,,2015-01-27T23:26:47.247,15,,"<p>The flavor and aroma of the beans continue to develop for the first few days after roasting as the beans release gas (this is the reason some retail coffee bags have valves to let the gases out). The process is <a href=""http://www.thefreshloaf.com/node/11119/cooling-bread-how-long-wait"">similar for bread</a>, with some bakers preferring to let some types of bread rest longer than others.</p>
+"
+"<p>Whenever I brew coffee with a French press, I tend to get a significant amount of grind left near the bottom of the cup, making the last bit of coffee far less enjoyable - mostly regardless, it seems, of how finely I grind the beans. Is there any method or tool I can use to minimize the amount of grind left at the bottom of the cup?</p>
+"
+"<p>I find that most of the Brazil dry processed coffee I get is very smooth or ""low acid"".  However, in general coffees that are darker roasted will have less acid as the acids are destroyed in the roasting process.   You may look at the description as well.  Many of the fruit notes that some coffees advertise are coming from acid compounds that may overall contribute to an acidic feel of the coffee.</p>
+"
+"<p>The flavor and aroma of the beans continue to develop for the first few days after roasting as the beans release gas (this is the reason some retail coffee bags have valves to let the gases out). The process is <a href=""http://www.thefreshloaf.com/node/11119/cooling-bread-how-long-wait"">similar for bread</a>, with some bakers preferring to let some types of bread rest longer than others.</p>
 
 <p>Right now I am actually drinking a cup of coffee made from beans I roasted this morning, because of poor planning. There's nothing wrong with it but I think it will be better in a couple of days. I find the aromatic qualities peak about 24-48 hours after roasting, but that may be because the off-gassing process is literally emitting the most fumes.</p>
 
@@ -366,12 +366,12 @@ Id,PostTypeId,AcceptedAnswerId,CreationDate,Score,ViewCount,Body,OwnerUserId,Las
 <li>Sweet Maria's claims coffee is <a href=""http://www.sweetmarias.com/freshroast.tipsheet.html"">""at its flavor peak at 12-72 hours""</a> and recommends a <a href=""http://www.sweetmarias.com/roastedcoffeestorage.php"">minimum 12-24 hour rest period</a>.</li>
 <li>forums like home-barista.com report <a href=""https://www.google.com/#q=resting+coffee+site:www.home-barista.com"">much variation on preferred resting time.</a></li>
 </ul>
-",86,2015-01-28T17:06:19.263,,,,0
-73,2,,2015-01-27T23:39:08.203,5,,"<p>It sounds like you may be grinding the coffee a little too fine or your press may be bent out of shape. </p>
+"
+"<p>It sounds like you may be grinding the coffee a little too fine or your press may be bent out of shape. </p>
 
 <p>With a french press the grounds shouldn't pass through or around the screen, if they are make sure the screen is touching the sides of the cylinder all the way around and try a slightly courser grind. </p>
-",31,2015-01-27T23:39:08.203,,,,0
-75,1,,2015-01-27T23:48:13.630,2,40,"<p>I know that coffee in a coffee machine is usually prepared using a temperature between 91–94 °C. Some people say 85°C is ideal. The pressure is usually between 8 and 18 bars.
+"
+"<p>I know that coffee in a coffee machine is usually prepared using a temperature between 91–94 °C. Some people say 85°C is ideal. The pressure is usually between 8 and 18 bars.
 My questions are specifically, what are ideal/recommended temperatures for different brewing methods:</p>
 
 <ul>
@@ -382,45 +382,45 @@ My questions are specifically, what are ideal/recommended temperatures for diffe
 </ul>
 
 <p>and so on ...</p>
-",90,2015-01-27T23:48:13.630,What is/are the ideal brewing temperature(s) when preparing coffee?,<temperature>,0,1
-76,2,,2015-01-27T23:51:12.140,10,,"<p>Are you using a burr grinder or a blade grinder? Blade grinders physically cannot give a consistent grind; you'll always have some too-fine (and some too-coarse) bits of beans. If you're having the beans ground where you buy them, have them done as coarse as the grinder will go and see if that helps.</p>
+"
+"<p>Are you using a burr grinder or a blade grinder? Blade grinders physically cannot give a consistent grind; you'll always have some too-fine (and some too-coarse) bits of beans. If you're having the beans ground where you buy them, have them done as coarse as the grinder will go and see if that helps.</p>
 
 <p>You can also try replacing the screen in your press. (Bodum sells replacement screens online.) If the wires at the edges are bent, they could be letting grounds through.</p>
 
 <p>If you don't mind branching out a little, I've become a devoted fan of the <a href=""http://shop.gamilacompany.com/impress/features/"">Impress brewer</a> from Gamila. (The link goes to the features page.) It works the same way as a french press, but the apertures in the filter are closer to the size of an espresso machine's filter (roughly 0.2 mm), rather than the +/- 1mm in a traditional french press screen.</p>
-",91,2015-01-27T23:51:12.140,,,,0
-77,2,,2015-01-27T23:51:43.470,4,,"<p>Stirring should be used if the grounds were not evenly dispersed in the beginning of the process for some reason (in immersion brewing methods).  For instance, when I am using my pour over at work, if my initial pour leaves some dry spots floating on top.  The Aeropress uses stirring prior to extraction presumably because the short time combined with the tube shape (narrow with all the grounds at the bottom) demand a good mixing.  I've seen many badly designed drip brewers that leave a chunk of dry grounds in the basket when done.  This is because the drip isn't dispersing water evenly and some of the grounds end up wasted,  finer grind, longer brew and temp won't necessarily help bad engineering in that case.</p>
-",76,2015-01-27T23:51:43.470,,,,0
-78,1,,2015-01-27T23:53:26.760,9,3317,"<p>Most moka pots don't work on my induction stove. How can I still use them? 
+"
+"<p>Stirring should be used if the grounds were not evenly dispersed in the beginning of the process for some reason (in immersion brewing methods).  For instance, when I am using my pour over at work, if my initial pour leaves some dry spots floating on top.  The Aeropress uses stirring prior to extraction presumably because the short time combined with the tube shape (narrow with all the grounds at the bottom) demand a good mixing.  I've seen many badly designed drip brewers that leave a chunk of dry grounds in the basket when done.  This is because the drip isn't dispersing water evenly and some of the grounds end up wasted,  finer grind, longer brew and temp won't necessarily help bad engineering in that case.</p>
+"
+"<p>Most moka pots don't work on my induction stove. How can I still use them? 
 I use a camping stove temporarily, but it requires me to buy gas refills every now and then. Is there an easier way?</p>
-",90,2016-06-01T16:38:23.903,Most moka pots don't work on my induction stove. How can I still use them?,<brewing-process><moka><induction>,4,0
-79,1,324,2015-01-27T23:53:51.513,34,16034,"<p>I haven't been able to find a good way to approximate the amount of caffeine in the coffee I make. Googling yields information like <a href=""http://www.mayoclinic.org/healthy-living/nutrition-and-healthy-eating/in-depth/caffeine/art-20049372"">this Mayo Clinic article</a> that mixes serving sizes and brewing methods, and it reports one 8 oz coffee contains ""95-200 mg"" of caffeine, which is a huge range. If I have three cups of coffee in a day, is that 300 or 600 mg of caffeine?</p>
+"
+"<p>I haven't been able to find a good way to approximate the amount of caffeine in the coffee I make. Googling yields information like <a href=""http://www.mayoclinic.org/healthy-living/nutrition-and-healthy-eating/in-depth/caffeine/art-20049372"">this Mayo Clinic article</a> that mixes serving sizes and brewing methods, and it reports one 8 oz coffee contains ""95-200 mg"" of caffeine, which is a huge range. If I have three cups of coffee in a day, is that 300 or 600 mg of caffeine?</p>
 
 <p>There are so many variables in prepared coffee, different extraction methods, beans, roasts, serving sizes, mixed with different amounts of water or milk. </p>
 
 <p><strong>Is there a general method for calculating the caffeine in prepared coffee?</strong> Something like ""most brewing methods extract <em>X</em> mg of caffeine from each <em>Y</em> grams of ground coffee""?</p>
 
 <p>Or more specifically, what method would I use to accurately estimate how much caffeine is in an 8oz serving from my 10 oz french press, made with medium- (not course-) ground medium-roast arabica beans, brewed 4 minutes before decanting?</p>
-",86,2016-01-28T12:00:37.770,How can I figure out how much caffeine is in my cup?,<brewing-process><caffeine>,7,4
-80,2,,2015-01-28T00:13:05.467,8,,"<p>That sounds like the generalization that drip or pour over brewing is better for light roasts and stronger brewing methods are better for darker roasts.  </p>
+"
+"<p>That sounds like the generalization that drip or pour over brewing is better for light roasts and stronger brewing methods are better for darker roasts.  </p>
 
 <p>I'll counter that by saying that I often use my Aeropress for lighter roasts and my Clever Dripper for dark roasts and those cups come out just fine.  </p>
 
 <p>The Aeropress makes a sort of quasi-espresso cup that isn't true espresso, but is much stronger than just strong coffee.  I've found that it is unsuitable or less than satisfactory for beans that aren't recommended for espresso brewing.  While the Aeropress allows less control over ""brew"" strength.  The V60 should be more flexible.  Varying the grind and pour speed should allow a level of control not present with an Aeropress.  </p>
-",76,2015-01-28T00:13:05.467,,,,4
-81,1,90,2015-01-28T00:13:43.660,16,2438,"<p>I was wondering why single serving coffee <a href=""http://en.wiktionary.org/wiki/sachet"">sachets</a> never really took off the way tea bags have. The only explanation I could find was that steeping coffee too long makes the coffee taste bad, but it seems like that could be avoided by removing the bag.</p>
+"
+"<p>I was wondering why single serving coffee <a href=""http://en.wiktionary.org/wiki/sachet"">sachets</a> never really took off the way tea bags have. The only explanation I could find was that steeping coffee too long makes the coffee taste bad, but it seems like that could be avoided by removing the bag.</p>
 
 <p>Why would the end result be terribly different than a french press, Turkish brew, or cowboy coffee? </p>
-",31,2016-04-25T12:09:39.507,"Why isn't coffee commonly sold in sachets, like tea bags?",<brewing-process><single-serving>,6,5
-82,2,,2015-01-28T00:23:36.533,12,,"<p>Sumatran coffees (and others from the Asia/Pacific region, like Java and Arabia) are uniformly low-acid. As @Chris said, the processing methods and roast have a lot to do with it. Coffees that have been dry- (or ""natural"" processed) are lower in acids than washed-process coffees.</p>
+"
+"<p>Sumatran coffees (and others from the Asia/Pacific region, like Java and Arabia) are uniformly low-acid. As @Chris said, the processing methods and roast have a lot to do with it. Coffees that have been dry- (or ""natural"" processed) are lower in acids than washed-process coffees.</p>
 
 <p>Often, acidic coffee is described as being ""bright"" (e.g., Starbucks Colombia). You can spot the ones that will be lower in acid when the description uses terms like earthy, spicy, or smooth.</p>
-",91,2015-01-28T00:23:36.533,,,,2
-84,1,,2015-01-28T00:29:53.437,9,1433,"<p>I have a grinding machine with a lot of different settings. Even between the categories of Fine and Medium there are sub levels of grinding. I'm not sure how they relate to the flavor of the coffee. Is there any research that shows how the grind affects the taste of the different types of roasts?</p>
+"
+"<p>I have a grinding machine with a lot of different settings. Even between the categories of Fine and Medium there are sub levels of grinding. I'm not sure how they relate to the flavor of the coffee. Is there any research that shows how the grind affects the taste of the different types of roasts?</p>
 
 <p><img src=""http://i.stack.imgur.com/lsio9.jpg"" alt=""enter image description here""></p>
-",95,2015-01-28T01:23:30.723,How does coffee grind consistency affect coffee taste,<flavor><grinder>,1,2
-85,2,,2015-01-28T00:37:01.953,18,,"<p>I have the same problem, and these things definitely reduce it:</p>
+"
+"<p>I have the same problem, and these things definitely reduce it:</p>
 
 <ol>
 <li>Grind more coarsely. Blade grinders are incapable of really doing this—they give you boulders and powder. But I've never been satisfied with the taste when I use coarse grounds— it's weak and lacks body.</li>
@@ -431,32 +431,32 @@ I use a camping stove temporarily, but it requires me to buy gas refills every n
 </ol>
 
 <p>Finally, if none of that works for you, try a different brew method. Paper filters are very good at keeping grounds out of your cup.</p>
-",86,2015-01-28T22:21:36.213,,,,0
-86,2,,2015-01-28T00:46:41.187,11,,"<p>Because coffee is an agricultural/baked item and like bread, goes stale.  Between roasting, grinding packaging and shipping the bags, you'd ensure the coffee was never fresh and will never taste good.  The most you may get is a mass produced cup of horrible that might be passable or better than nothing to a small percentage of people.  </p>
+"
+"<p>Because coffee is an agricultural/baked item and like bread, goes stale.  Between roasting, grinding packaging and shipping the bags, you'd ensure the coffee was never fresh and will never taste good.  The most you may get is a mass produced cup of horrible that might be passable or better than nothing to a small percentage of people.  </p>
 
 <p>The other brew methods you list are generally used by people buying fresher, specialty coffee from shops.  Those methods are all a bit more intensive and tend to be used by people a bit more picky that folks buying Folgers.</p>
-",76,2015-01-28T00:46:41.187,,,,2
-87,2,,2015-01-28T00:53:41.237,10,,"<p>The main reason for different grinds is the different brewing processes. If the water is exposed to the grounds for a very short amount of time (e.g., 10-15 seconds for espresso), you need a finer grind to provide enough surface area to extract the coffee from the beans. If the brewing time is long (e.g., the ~4 minutes of french press), you need a coarse grind to avoid over-extracting the grounds and getting something too bitter to drink.</p>
+"
+"<p>The main reason for different grinds is the different brewing processes. If the water is exposed to the grounds for a very short amount of time (e.g., 10-15 seconds for espresso), you need a finer grind to provide enough surface area to extract the coffee from the beans. If the brewing time is long (e.g., the ~4 minutes of french press), you need a coarse grind to avoid over-extracting the grounds and getting something too bitter to drink.</p>
 
 <p>That's really the heart of it. If the grind is too coarse for your brewing method, your coffee will end up under-extracted, weak, and acidic. If it is too fine a grind, your coffee ends up over-extracted and bitter. Your grinder is a good brand; if you still have the manual, it includes a guide to grind vs. brewing method. If not, the capresso.com site includes PDF versions.</p>
-",91,2015-01-28T00:53:41.237,,,,2
-88,2,,2015-01-28T01:12:16.993,11,,"<p>Well I am not sure how thay did it but here is the website about the amount of caffeine there is in certain cups of coffee (types will vary): <a href=""http://www.caffeineinformer.com/the-caffeine-database"">Caffeine In Coffee</a><br>
+"
+"<p>Well I am not sure how thay did it but here is the website about the amount of caffeine there is in certain cups of coffee (types will vary): <a href=""http://www.caffeineinformer.com/the-caffeine-database"">Caffeine In Coffee</a><br>
 There will be caffeine intake of other drinks as well.<br><br>
 Well here is another website where it explains the amount of coffee per type (not brands). It was made by ICO, the International Coffee Organization: <a href=""http://www.ico.org/caffeine.asp"">http://www.ico.org/caffeine.asp</a></p>
-",75,2015-01-28T01:59:24.847,,,,5
-89,1,,2015-01-28T01:15:44.047,3,48,"<p>In what way does the altitude at which coffee beans are grown affect the flavor of the final roast?</p>
+"
+"<p>In what way does the altitude at which coffee beans are grown affect the flavor of the final roast?</p>
 
 <p>I often see coffees labeled with marketing materials such as ""contains only beans grown above x thousand feet."" Does the altitude at which the beans are grown actually affect the final flavor of the coffee? If so, what are the mechanisms which cause this, and what does it do to the actual flavor of the final product?</p>
-",80,2015-01-28T08:23:14.633,How does the altitude at which beans are grown affect the final roast?,<beans><growing>,1,4
-90,2,,2015-01-28T01:33:09.917,18,,"<p>As a matter of fact, coffee is ""commonly"" sold in some kind of sachets.</p>
+"
+"<p>As a matter of fact, coffee is ""commonly"" sold in some kind of sachets.</p>
 
 <p>In Japan, there is what is called ""one-drip bag coffee"". It consists of a flat sachet that you can unfold to deploy a small scaffold. The scaffold adapts to any mug-like cups. It unveils a filter containing ground coffee, as it unfolds. You just need to pour hot water in the filter to get a decent cup of coffee.</p>
 
 <p>I will not link to any maker or brand, but most coffee dealers in Japan offer these bags---pretty convenient and offering a decent cup for the price. These bags seem somewhat popular in Japan.</p>
 
 <p>I am not sure about global availability, though. Several countries do not sell them (e.g. Europe, perhaps because of the French / Italian influences).</p>
-",98,2015-01-28T01:33:09.917,,,,8
-91,2,,2015-01-28T02:13:33.510,2,,"<p>Most high-end automatic grinders allow you to adjust for coarseness, not speed, as they're driven by a gear box that makes them operate consistently. This is important, because consistency allows you to produce exactly the same cup that you did previously by simply reproducing the grind / tamping / temp / etc. </p>
+"
+"<p>Most high-end automatic grinders allow you to adjust for coarseness, not speed, as they're driven by a gear box that makes them operate consistently. This is important, because consistency allows you to produce exactly the same cup that you did previously by simply reproducing the grind / tamping / temp / etc. </p>
 
 <p>If you drink exotic beans, such as <a href=""http://www.botecentral.net/coffee-alamid-the-worlds-rarest-brew/"" rel=""nofollow"">alamid</a>, then you <em>probably</em> want to also purchase a hand (crank) powered burr grinder as some beans are particularly sensitive to the heat that can be produced by the grinding process itself. While ceramic burr grinders do very well at minimizing heat, it's nice to have a hand grinder for when you want full control.</p>
 
@@ -469,52 +469,52 @@ Well here is another website where it explains the amount of coffee per type (no
 <p>I can grind enough for a double shot in about 30 - 45 seconds, the top knob adjusts for coarseness while how fast I move my arm controls the amount of heat I produce just grinding the beans :)</p>
 
 <p>I don't use blade grinders because you have no real control over <em>either</em> - they tend to get too hot <em>and</em> they produce inconsistent grinds.</p>
-",101,2015-01-28T02:58:36.360,,,,0
-92,2,,2015-01-28T02:54:46.753,1,,"<p>The Starbucks-owned brand ""Seattle's Best Coffee"" uses numbers on its bagged supermarket coffees, too. I equate it to the stars you can use to order Asian takeout with more or less spiciness. There's no set scale I've ever found, but it's a general way to tell the consumer where on the spectrum each product (roughly) lies.</p>
-",91,2015-01-28T02:54:46.753,,,,0
-93,1,205,2015-01-28T03:12:46.843,8,408,"<p>I've noticed the water pressure from espresso machines varies from about 12 psi to 22 psi. What effect does this have on flavor? </p>
-",110,2015-01-29T04:24:53.840,How does pressure affect the flavor of espresso?,<espresso><flavor>,1,0
-94,1,103,2015-01-28T03:15:34.813,9,10695,"<p>Many people seem to think that a 0.85oz shot of espresso has the same amount of caffeine as a cup of coffee. Is there any validity to this?</p>
-",110,2015-02-20T16:15:48.713,How much caffeine is in an espresso shot?,<espresso><caffeine>,2,0
-95,1,175,2015-01-28T03:19:40.670,2,348,"<p>What is the correct amount of milk to put into a macchiato? Does it depend on the amount of espresso? </p>
-",110,2015-01-28T18:28:30.810,Amount of milk in a macchiato beverage,<espresso><milk>,2,0
-96,1,194,2015-01-28T03:25:30.270,29,762,"<p>Generally speaking, what do ""<a href=""http://en.m.wikipedia.org/wiki/Cold_brew"">cold brewed</a>"" methods hope to achieve compared to the more traditional hot-water methods of extraction? </p>
+"
+"<p>The Starbucks-owned brand ""Seattle's Best Coffee"" uses numbers on its bagged supermarket coffees, too. I equate it to the stars you can use to order Asian takeout with more or less spiciness. There's no set scale I've ever found, but it's a general way to tell the consumer where on the spectrum each product (roughly) lies.</p>
+"
+"<p>I've noticed the water pressure from espresso machines varies from about 12 psi to 22 psi. What effect does this have on flavor? </p>
+"
+"<p>Many people seem to think that a 0.85oz shot of espresso has the same amount of caffeine as a cup of coffee. Is there any validity to this?</p>
+"
+"<p>What is the correct amount of milk to put into a macchiato? Does it depend on the amount of espresso? </p>
+"
+"<p>Generally speaking, what do ""<a href=""http://en.m.wikipedia.org/wiki/Cold_brew"">cold brewed</a>"" methods hope to achieve compared to the more traditional hot-water methods of extraction? </p>
 
 <p>Does the amount of caffeine vary between hot brewed and cold brewed coffee?</p>
 
 <p>What about the other compounds such as Salicylic acid, phenolic acids, and amino acids? </p>
-",110,2015-02-17T23:37:22.793,"How will ""cold brewed"" coffee differ from traditional hot-water extraction methods?",<cold-brew>,1,5
-97,1,,2015-01-28T03:29:13.230,7,595,"<p>I have a stove top percolator for making espresso.  It does not generate any crema.  it possible to do so with a stove top percolator? </p>
-",110,2015-02-10T15:28:29.793,Generating crema with a moka pot?,<crema><moka>,1,2
-98,1,407,2015-01-28T03:45:57.007,12,1175,"<p>Standard and V60 paper filters require we fold the border before spreading them for dripping.</p>
+"
+"<p>I have a stove top percolator for making espresso.  It does not generate any crema.  it possible to do so with a stove top percolator? </p>
+"
+"<p>Standard and V60 paper filters require we fold the border before spreading them for dripping.</p>
 
 <p>I believe this is just because of their manufacturing process. But would there be any other reason?</p>
 
 <p>Folding that border makes the surface uneven in the end, and it can sometimes be harder to control the water flow.</p>
 
 <p><img src=""http://i.stack.imgur.com/R6Tms.jpg"" alt=""Folded border on a V60 filter""></p>
-",98,2015-02-14T12:02:25.290,Why do we need to fold the border of filters?,<filter><drip-brew>,2,7
-99,1,102,2015-01-28T04:14:05.120,16,344,"<p>Does storing ground coffee in a freezer make it stay fresh longer? If so, how long will it remain fresh? </p>
-",110,2016-02-25T07:02:51.663,Does storing coffee in a freezer preserve freshness?,<storage>,2,1
-100,1,105,2015-01-28T04:37:55.437,7,106,"<p>I'll have a chance to visit some coffee farms in the coming months, at which time I'll be able to purchase small amounts of 'green' Arabica beans. The only experience I have with purchasing these types of beans in the past has been online, and I'm not particularly certain that the beans I received could be considered fresh.</p>
+"
+"<p>Does storing ground coffee in a freezer make it stay fresh longer? If so, how long will it remain fresh? </p>
+"
+"<p>I'll have a chance to visit some coffee farms in the coming months, at which time I'll be able to purchase small amounts of 'green' Arabica beans. The only experience I have with purchasing these types of beans in the past has been online, and I'm not particularly certain that the beans I received could be considered fresh.</p>
 
 <p>Now that I have a chance to actually see what I'm getting before I get it, what should I look for in a fresh bean as far as quality? Are there characteristics that I can look for which indicate that (if properly roasted) the bean will produce something good? I can only compare with what I've bought previously, which was of dubious quality, so I'm not entirely sure what to look for.</p>
-",101,2015-01-28T07:08:49.517,How do I judge the quality of 'green' beans?,<whole-bean><arabica>,1,0
-101,2,,2015-01-28T05:27:00.590,0,,"<p>This question will largely be based off of the individual tastes of the person consuming the drink.  </p>
+"
+"<p>This question will largely be based off of the individual tastes of the person consuming the drink.  </p>
 
 <p>From my experience as a barista, typically for every ~2 ounces (Double Shot) of espresso, you'll want about 2-3 spoonfuls of milk froth.</p>
 
 <p>Of course, some people enjoy more or less.</p>
-",18,2015-01-28T05:27:00.590,,,,1
-102,2,,2015-01-28T05:31:03.700,20,,"<p>No. In fact it's likely to make your coffee taste bad, and gum up your grinder. You should store your coffee in an air-tight container, at or just below room temp (about 25 degrees Celsius). </p>
+"
+"<p>No. In fact it's likely to make your coffee taste bad, and gum up your grinder. You should store your coffee in an air-tight container, at or just below room temp (about 25 degrees Celsius). </p>
 
 <p>Coffee can and will absorb all kinds of odors, and while your freezer probably doesn't smell like much, there are odors that will (at the minimum) dull the taste of the coffee. Additionally, when you take your coffee out to room temp, condensation kicks in which further degrades the beans <em>and</em> messes up your grind. Depending on your climate, the condensation can also invite mold. Yuck!</p>
 
 <p>The only time you should be freezing or refrigerating coffee is when you're doing so because you've created a desert with some :) Otherwise, dark air-tight containers are the best way to go, just store them in your cabinet.</p>
 
 <p>A good rule of thumb: Store anything you buy the way it was when you bought it, unless the label tells you to do something different once you open it.</p>
-",101,2016-02-16T17:58:00.333,,,,4
-103,2,,2015-01-28T05:32:20.250,8,,"<p>According to caffeineinformer, there is 77mg of caffeine in 1 1/2 shots of espresso.</p>
+"
+"<p>According to caffeineinformer, there is 77mg of caffeine in 1 1/2 shots of espresso.</p>
 
 <p>Source: <a href=""http://www.caffeineinformer.com/caffeine-content/espresso"">http://www.caffeineinformer.com/caffeine-content/espresso</a></p>
 
@@ -523,8 +523,8 @@ Well here is another website where it explains the amount of coffee per type (no
 <p>Source: <a href=""http://www.caffeineinformer.com/caffeine-content/coffee-brewed"">http://www.caffeineinformer.com/caffeine-content/coffee-brewed</a></p>
 
 <p>There is roughly 1/2 as much caffeine in 1.5 shots as there is in 8 oz. of brewed coffee.</p>
-",18,2015-01-28T05:32:20.250,,,,2
-104,1,,2015-01-28T07:08:41.277,5,116,"<p>I'm looking for some small container to store small amounts of ground coffee. </p>
+"
+"<p>I'm looking for some small container to store small amounts of ground coffee. </p>
 
 <p>I have a lot of jars after some other things, like olives. </p>
 
@@ -533,30 +533,30 @@ Well here is another website where it explains the amount of coffee per type (no
 <p>If so, how should I clean them before using them for coffee?</p>
 
 <p>The original package is not very tight after opening, so the jar would better prevent the contact with the air... </p>
-",48,2015-01-28T21:11:19.620,Are reused glass jars ever fit for storing ground coffee?,<storage>,2,1
-105,2,,2015-01-28T07:08:49.517,6,,"<p>I have been purchasing everything from cheap beans to rather pricey beans and what i discovered while buying the more pricey (and higher quality) beans was that the fragrance of the bean is somewhat stronger and can actually smell of more than just the usual grassy fragrance. Notes from fruits and nuts are not unusual and could be a indicator of somewhat higher quality coffee.</p>
+"
+"<p>I have been purchasing everything from cheap beans to rather pricey beans and what i discovered while buying the more pricey (and higher quality) beans was that the fragrance of the bean is somewhat stronger and can actually smell of more than just the usual grassy fragrance. Notes from fruits and nuts are not unusual and could be a indicator of somewhat higher quality coffee.</p>
 
 <p>I have no scientific proof of this, and while even expensive coffee can be bad, it is my empirical approach to determine what could be a step up in coffee quality.</p>
 
 <p>Apart from that i have to admit that its hard to determine the quality of the bean before it has been roasted.</p>
-",16,2015-01-28T07:08:49.517,,,,1
-106,2,,2015-01-28T07:18:54.650,5,,"<p>The method of brewing you describe is commonly known in Poland, Belarus, etc, as 'Turkish coffee', althought it's something very different from the actual 'Turkish coffee', because coffee is poured over by hot water, like tea, and not boiled afterwards. </p>
+"
+"<p>The method of brewing you describe is commonly known in Poland, Belarus, etc, as 'Turkish coffee', althought it's something very different from the actual 'Turkish coffee', because coffee is poured over by hot water, like tea, and not boiled afterwards. </p>
 
 <p>In fact, many people use sprinkled tea instead of express tea (express tea, or sachet tea is usually of much poorer quality). But many people dislike that method because of grounds that must be manually removed before washing the cup.</p>
 
 <p>The grounds of the coffee are very small grained, so they won't stop the sink, and I suppose it's the reason there's not so much demand on coffee sachets. Another one is the popularity of coffee machines, with nothing similar in the tea world. </p>
 
 <p>The last reason that I see is, because coffee grounds are much smaller, it's technologically more challenging to prepare coffee sachets that would keep grounds inside. So they would be (and from I've heard actually are) much more expensive, and not so many people are eager to pay extra for them.</p>
-",48,2015-02-19T03:46:42.750,,,,0
-107,1,110,2015-01-28T07:37:23.493,3,2028,"<p>I've been told that Nespresso capsules contains sugar, but the site <a href=""http://www.caffeineinformer.com/caffeine-content/nespresso-coffee-capsules"" rel=""nofollow"">Caffeineinformer.com</a> says it doesn't. Are there any official sources that declares no sugar in Nespresso capsules?</p>
-",120,2015-01-28T07:49:34.440,Does Nespresso contain sugar?,<sugar><nespresso><capsule>,1,0
-108,2,,2015-01-28T07:39:30.370,3,,"<p>My experience is that even if you grind precisely as you should there will always be coffee residue in the bottom of your cup. The only way to minimize this, assuming that you are grinding the coffee as you should, is to invest in a much better french press. I have good experience with e.g. <a href=""http://espro.ca/espro-press/"" rel=""nofollow"">Espro press</a> which has two efficient micro-filters.</p>
-",16,2015-01-28T07:39:30.370,,,,0
-109,2,,2015-01-28T07:46:09.903,6,,"<p>My experience is that some jar lids are almost impossible to make completely odorless, while the glass simply needs to be soaked in a mixture of baking soda and vinegar for a few hours. I have even read that leaving the jar in the sun for a few days works efficiently, but since we don't have that much sun in my part of the world i have never tried this before. Depending on the original content of the jar i would very likely replace the lid and clean the jar for re-use.</p>
+"
+"<p>I've been told that Nespresso capsules contains sugar, but the site <a href=""http://www.caffeineinformer.com/caffeine-content/nespresso-coffee-capsules"" rel=""nofollow"">Caffeineinformer.com</a> says it doesn't. Are there any official sources that declares no sugar in Nespresso capsules?</p>
+"
+"<p>My experience is that even if you grind precisely as you should there will always be coffee residue in the bottom of your cup. The only way to minimize this, assuming that you are grinding the coffee as you should, is to invest in a much better french press. I have good experience with e.g. <a href=""http://espro.ca/espro-press/"" rel=""nofollow"">Espro press</a> which has two efficient micro-filters.</p>
+"
+"<p>My experience is that some jar lids are almost impossible to make completely odorless, while the glass simply needs to be soaked in a mixture of baking soda and vinegar for a few hours. I have even read that leaving the jar in the sun for a few days works efficiently, but since we don't have that much sun in my part of the world i have never tried this before. Depending on the original content of the jar i would very likely replace the lid and clean the jar for re-use.</p>
 
 <p>Apart from that i don't see any problem in storing coffee in jars as long as the coffee has degassed significantly before hand, to avoid exploding lids (extreme case).</p>
-",16,2015-01-28T07:56:00.897,,,,4
-110,2,,2015-01-28T07:49:34.440,7,,"<blockquote>
+"
+"<blockquote>
   <p>Coffee is a pure and natural product, consisting only of water and
   roasted coffee bean extract. Unsweetened black coffee is naturally low
   in calories ( &lt;1 kcal). No additives are present in our capsules.
@@ -567,14 +567,14 @@ Well here is another website where it explains the amount of coffee per type (no
 </blockquote>
 
 <p>Reference: <a href=""https://www.nespresso.com/us/en/grands-crus-coffee-range"">https://www.nespresso.com/us/en/grands-crus-coffee-range</a> (FAQ; see bottom of the page)</p>
-",16,2015-01-28T07:49:34.440,,,,0
-111,1,145,2015-01-28T08:07:19.013,9,428,"<p>When I'm making lots of individual drinks I tend to clean the portafilter basket thoroughly and then dry it before filling it again etc. </p>
+"
+"<p>When I'm making lots of individual drinks I tend to clean the portafilter basket thoroughly and then dry it before filling it again etc. </p>
 
 <p>I've watched baristas and they tend to just knock the old coffee out and immediately refil the portafilter without cleaning. I'd have thought that this would create bitter coffee as the grounds will already have been through one extraction.</p>
 
 <p>Is it accepted that you should clean the portafilter between shots, or is it ok to reuse?</p>
-",121,2015-01-28T17:42:51.437,Should I thoroughly clean the portafilter basket between shots?,<espresso>,2,0
-112,2,,2015-01-28T08:23:14.633,3,,"<p>Based on the study entitled <strong>Effects of Altitude, Shade, Yield and Fertilization on Coffee Quality (Coffea arabica L. var. Caturra) produced in Agroforestry
+"
+"<p>Based on the study entitled <strong>Effects of Altitude, Shade, Yield and Fertilization on Coffee Quality (Coffea arabica L. var. Caturra) produced in Agroforestry
 Systems of the Northern Central Zones of Nicaragua</strong> the summary describes following on the altitude subject:</p>
 
 <blockquote>
@@ -591,28 +591,28 @@ Systems of the Northern Central Zones of Nicaragua</strong> the summary describe
   fertilization, but not by yield. Biochemical compounds showed strong
   relationships with organoleptic characteristics.</p>
 </blockquote>
-",16,2015-01-28T08:23:14.633,,,,0
-113,1,117,2015-01-28T08:56:52.877,7,373,"<p>If it's recommended that coffee should be stored in an <a href=""http://coffee.stackexchange.com/questions/1/how-should-i-store-whole-bean-coffee"">air tight container</a> then why do coffee bags have an aroma hole.</p>
+"
+"<p>If it's recommended that coffee should be stored in an <a href=""http://coffee.stackexchange.com/questions/1/how-should-i-store-whole-bean-coffee"">air tight container</a> then why do coffee bags have an aroma hole.</p>
 
 <p>Apart from being able to smell the coffee is there another purpose to this? I would've thought that it would be better to not have a hole at all and that it should be air tight.</p>
 
 <p><img src=""http://i.stack.imgur.com/tAzpR.jpg"" alt=""enter image description here""></p>
 
 <p>It seems the hole at the bottom is probably for degassing but I have seen on some packages that they call this an aroma hole.</p>
-",8,2015-01-28T09:37:23.653,Why do coffee packs have an aroma hole if it is recommended to store coffee in an air tight container,<storage><aroma>,1,2
-115,1,142,2015-01-28T09:35:14.093,5,225,"<p>For someone without an expensive machine that can regulate the pressure when tamping, how can I know how hard to tamp, and if I'm tamping <em>too</em> hard?</p>
+"
+"<p>For someone without an expensive machine that can regulate the pressure when tamping, how can I know how hard to tamp, and if I'm tamping <em>too</em> hard?</p>
 
 <p>I make espresso with a counter-top machine, and I tamp with a hand-held tamper like this:</p>
 
 <p><img src=""http://i.stack.imgur.com/pXoSf.jpg"" alt=""enter image description here""></p>
 
 <p>Should I put my whole weight on it, or just a little? Does twisting while I tamp have an effect?</p>
-",127,2015-01-28T16:46:43.540,How do I know how hard to tamp my coffee?,<tamping>,2,2
-116,1,140,2015-01-28T09:36:34.937,14,316,"<p>Different coffee packets advertise different amounts of 'Robusta' and 'Arabica'? What do these terms refer to, and how does it affect the taste of the coffee?</p>
-",127,2016-03-26T12:25:51.267,What is the difference between Robusta and Arabica?,<bean-varieties>,3,0
-117,2,,2015-01-28T09:37:23.653,6,,"<p>Its nothing but a marketing gimmick, enabling the user to use the degassing ventilation hole as <em>aroma hole</em>. If the coffee is super fresh you will be smelling a very bad gas while squeezing the coffee bag, but this is rarely the case as <em>many</em> consumer coffee products have been laying in the shelfs for more than one week.</p>
-",16,2015-01-28T09:37:23.653,,,,1
-118,2,,2015-01-28T09:38:57.437,6,,"<p>Robusta and Arabica refer to different beans that are used for the coffee.</p>
+"
+"<p>Different coffee packets advertise different amounts of 'Robusta' and 'Arabica'? What do these terms refer to, and how does it affect the taste of the coffee?</p>
+"
+"<p>Its nothing but a marketing gimmick, enabling the user to use the degassing ventilation hole as <em>aroma hole</em>. If the coffee is super fresh you will be smelling a very bad gas while squeezing the coffee bag, but this is rarely the case as <em>many</em> consumer coffee products have been laying in the shelfs for more than one week.</p>
+"
+"<p>Robusta and Arabica refer to different beans that are used for the coffee.</p>
 
 <p>In general it can be said, that Arabica beans contain less caffeine, and less acid than Robusta beans.</p>
 
@@ -621,48 +621,48 @@ Systems of the Northern Central Zones of Nicaragua</strong> the summary describe
 </blockquote>
 
 <p>This means Arabica beans usually give a smoother coffee than Robusta beans. Robusta seems to be used as a filler in low-quality coffee blends, but is apparently the preferred bean for Italian coffee culture, because of it's stronger taste</p>
-",46,2015-01-28T09:38:57.437,,,,0
-119,2,,2015-01-28T09:41:29.403,4,,"<p>When i started brewing espresso some years ago i started out with placing a robust scale on the counter and applying pressure while reading the weight in order to measure how hard i tamped my coffee. By doing this i was also able to experiment with the weight in order to determine the actual significance of the pressure applied to the puck.</p>
-",16,2015-01-28T09:41:29.403,,,,2
-120,1,138,2015-01-28T09:42:38.663,11,195,"<p><img src=""http://i.stack.imgur.com/tNs6ym.jpg"" alt=""what&#39;s the difference between regular and decaf coffee""></p>
+"
+"<p>When i started brewing espresso some years ago i started out with placing a robust scale on the counter and applying pressure while reading the weight in order to measure how hard i tamped my coffee. By doing this i was also able to experiment with the weight in order to determine the actual significance of the pressure applied to the puck.</p>
+"
+"<p><img src=""http://i.stack.imgur.com/tNs6ym.jpg"" alt=""what&#39;s the difference between regular and decaf coffee""></p>
 
 <p>Okay but seriously, how is decaffeinated coffee made? How does this process affect the flavour? (I'm assuming it does because decaffeinated coffee seems to be the source of much derision...)</p>
-",127,2015-02-17T11:48:36.620,How is decaffeinated coffee made?,<decaffeinated>,1,0
-121,2,,2015-01-28T09:46:00.623,7,,"<p>Yes, you just need to get a pot that's made of the right stuff. Induction hobs only work with magnetic metals. If you can stick a magnet to your coffee pot, it will work. Traditional moka pots are made of aluminium, which is why they don't.</p>
+"
+"<p>Yes, you just need to get a pot that's made of the right stuff. Induction hobs only work with magnetic metals. If you can stick a magnet to your coffee pot, it will work. Traditional moka pots are made of aluminium, which is why they don't.</p>
 
 <p>I have one that looks like this:</p>
 
 <p><img src=""http://i.stack.imgur.com/K8N1u.jpg"" alt=""enter image description here""></p>
 
 <p>A quick search on Amazon should find you what you want, or enquire at your nearest big cookware store - the advisors there should be able to show you which ones will work (most will have indicators on the box in any case).</p>
-",127,2015-01-28T12:43:37.300,,,,1
-122,1,158,2015-01-28T09:49:38.713,7,210,"<p>I regularly use a moka pot for making coffee, and I've heard different people tell me about cleaning it. The consensus does seem to be that I should never clean it with soap, just rinse it with warm/hot water, but some people insist that it should never be cleaned! </p>
+"
+"<p>I regularly use a moka pot for making coffee, and I've heard different people tell me about cleaning it. The consensus does seem to be that I should never clean it with soap, just rinse it with warm/hot water, but some people insist that it should never be cleaned! </p>
 
 <p>What should my moka pot cleaning routine be?</p>
-",127,2015-01-28T16:43:04.263,When and how should I clean my moka pot?,<moka>,1,0
-123,1,166,2015-01-28T09:51:59.717,22,1241,"<p>If I've ground a batch of coffee, I know I should use it as soon as possible, but if I store it (in an opaque, air-tight, slightly-below-room-temp container), how long have I got to use it? Are there any key points at which the quality will degrade (e.g. after a day, after a week)?</p>
-",127,2015-12-06T17:52:29.020,When does coffee go off?,<storage>,3,0
-124,1,135,2015-01-28T09:56:25.303,13,308,"<p>Business practices aside, Starbucks coffee seems to get a lot of derision from people who consider themselves coffee aficionados. Why is this? I can understand why one might not like the idea of an enormous creamy, iced, syrup-filled beverage, but is there anything wrong with their actual espresso?</p>
+"
+"<p>If I've ground a batch of coffee, I know I should use it as soon as possible, but if I store it (in an opaque, air-tight, slightly-below-room-temp container), how long have I got to use it? Are there any key points at which the quality will degrade (e.g. after a day, after a week)?</p>
+"
+"<p>Business practices aside, Starbucks coffee seems to get a lot of derision from people who consider themselves coffee aficionados. Why is this? I can understand why one might not like the idea of an enormous creamy, iced, syrup-filled beverage, but is there anything wrong with their actual espresso?</p>
 
 <p>An example of this common mindset is presented on <a href=""http://ideas.time.com/2012/09/19/the-perils-of-coffee-snobbery/"">Time.com</a>:</p>
 
 <blockquote>
   <p>[...] no coffee snob I know would be caught dead drinking a latte, especially the Starbucks latte they implied.</p>
 </blockquote>
-",127,2015-07-30T21:51:00.383,Why do some people sneer at Starbucks coffee?,<starbucks>,3,11
-125,1,152,2015-01-28T09:59:11.077,12,321,"<p>There is a huge amount of price variance for coffee machines. Just a quick look in any shop will reveal two espresso machines, made by the same manufacturer, one in the $100 range, and another in the $1000 range. For the purposes of simply making espresso from ground coffee, what is the difference between them?</p>
-",127,2015-01-28T17:37:26.087,What differentiates a $100 coffee machine from a $1000 coffee machine?,<espresso-machine>,2,5
-126,1,,2015-01-28T10:17:27.200,3,42,"<p>I have a Keurig 2.0 machine, that won't accept anything but authorised coffee pods. I've read that this 'feature' can be bypassed. How do I go about using my own coffee pods with this machine?</p>
-",127,2015-01-28T14:29:26.330,How can I use any pod in a Keurig 2.0?,<keurig>,1,0
-127,1,130,2015-01-28T10:32:43.690,3,77,"<p>I was recently told that I could improve the flavour of my moka pot coffee by boiling the water separately before putting it in the pot and assembling it. </p>
+"
+"<p>There is a huge amount of price variance for coffee machines. Just a quick look in any shop will reveal two espresso machines, made by the same manufacturer, one in the $100 range, and another in the $1000 range. For the purposes of simply making espresso from ground coffee, what is the difference between them?</p>
+"
+"<p>I have a Keurig 2.0 machine, that won't accept anything but authorised coffee pods. I've read that this 'feature' can be bypassed. How do I go about using my own coffee pods with this machine?</p>
+"
+"<p>I was recently told that I could improve the flavour of my moka pot coffee by boiling the water separately before putting it in the pot and assembling it. </p>
 
 <p>The theory goes that this means that the pot spends less time on the stove, meaning the grounds are less likely to be burned from the heat of the pot before the water has a chance to turn into steam and brew the coffee.</p>
 
 <p>Is this true?</p>
-",127,2015-01-28T11:31:42.977,Do I need to boil the water before using my moka?,<moka>,1,0
-128,1,1731,2015-01-28T10:34:16.883,10,437,"<p>I want to make the most caffeinated coffee possible. What method should I use to yield the most caffeine content per liter?</p>
-",127,2015-04-13T11:31:52.980,What preparation method yields the most caffeine?,<caffeine>,3,0
-129,2,,2015-01-28T10:49:51.573,11,,"<p>The first thing you want to do is choose the right bean and the right roast.</p>
+"
+"<p>I want to make the most caffeinated coffee possible. What method should I use to yield the most caffeine content per liter?</p>
+"
+"<p>The first thing you want to do is choose the right bean and the right roast.</p>
 
 <p>Longer roasting removes some of the caffeine from the bean, so a lighter roast would be preferred. Additionally you should chose Robusta beans, since their inherent caffeine content is higher than that of arabica beans.</p>
 
@@ -679,14 +679,14 @@ Systems of the Northern Central Zones of Nicaragua</strong> the summary describe
 <p>Usually you try to stop extraction after the second step, to have the coffee taste nicely. By that point in time most of the caffeine is already extracted.</p>
 
 <p>If you'd want to get <strong>all</strong> the caffeine out of a ground, you'd have to go through with extracting the bitterness, too. But for general purpose drinkable coffee it's definitely preferrable to stop after extracting the sweetness</p>
-",46,2015-01-28T10:49:51.573,,,,1
-130,2,,2015-01-28T11:31:42.977,5,,"<p>It is true. </p>
+"
+"<p>It is true. </p>
 
 <p>Preboiling the water will make the coffee tastes a lot better. It will reduce the bitterness and give space for a lot of other notes.</p>
 
 <p>Heating up the Mokka too much releases also metallic taste from the machine itself and you boil the coffee.</p>
-",20,2015-01-28T11:31:42.977,,,,0
-131,1,,2015-01-28T11:47:20.727,5,2131,"<p>Jacobs got two major brands:</p>
+"
+"<p>Jacobs got two major brands:</p>
 
 <p><img src=""http://i.stack.imgur.com/Zd1FRm.jpg"" alt=""""> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; vs. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src=""http://i.stack.imgur.com/9mdoDm.jpg"" alt=""""></p>
 
@@ -695,8 +695,8 @@ Systems of the Northern Central Zones of Nicaragua</strong> the summary describe
 <p>However, Cronat Gold is  (at least in my country) 30%-50% cheaper than  Krönung. The taste is also very similar, the Cronat Gold maybe bit more delicate or having less caffeine.</p>
 
 <p>What are the differences between the two, and why such a gap in the price?</p>
-",124,2015-01-28T13:21:36.660,What are the differences between Jacobs Krönung and Jacobs Cronat Gold?,<flavor>,1,0
-133,2,,2015-01-28T12:24:02.997,4,,"<p><strong>Check for coffee related features</strong>. </p>
+"
+"<p><strong>Check for coffee related features</strong>. </p>
 
 <p>These are things which make your coffee taste better:</p>
 
@@ -709,26 +709,26 @@ Systems of the Northern Central Zones of Nicaragua</strong> the summary describe
 <p>Anyway, in my own opinion, for <em>good coffe</em> is enough even low end coffee machine (I own one for 200 bucks)</p>
 
 <p>If you want to make <em>great cofee</em> then go to higher end. But for beginner or even bit enthusiast as I am, low end should do the trick</p>
-",131,2015-01-28T12:24:02.997,,,,0
-134,2,,2015-01-28T12:35:34.750,11,,"<p>Starbucks is a coffee-chain, but <a href=""http://www.howardbehar.com/book.shtml"">""It's not about the coffee""</a>. Their main focus is actually the personal experience of going there. They train their employees to remember regular's names (and not only that; the get loads of training on handling people, conversation tactics, and personal skills), they have that ""your name on the cup"" thing, and generally, their focus is actually the reception you get and how you <em>feel</em> going to Starbucks.</p>
+"
+"<p>Starbucks is a coffee-chain, but <a href=""http://www.howardbehar.com/book.shtml"">""It's not about the coffee""</a>. Their main focus is actually the personal experience of going there. They train their employees to remember regular's names (and not only that; the get loads of training on handling people, conversation tactics, and personal skills), they have that ""your name on the cup"" thing, and generally, their focus is actually the reception you get and how you <em>feel</em> going to Starbucks.</p>
 
 <p>So while their coffee might be good, if one goes there and ignores all the other factors and solely focuses on the taste, one might find that there are better places in town.</p>
-",52,2015-01-28T12:35:34.750,,,,2
-135,2,,2015-01-28T12:44:06.413,32,,"<p>In order to maintain consistency, Starbucks roasts their coffee a <em>tad</em> bit longer than many might prefer. The espresso you get in New York is going to taste exactly like the one you got in Hong Kong, or New Delhi - that's actually kind of impressive. Still, if you're someone that likes their beans just past the second 'crack' - you might find their espresso a bit too dark, a bit too bitter and a bit too expensive to be accepting of a disappointment. </p>
+"
+"<p>In order to maintain consistency, Starbucks roasts their coffee a <em>tad</em> bit longer than many might prefer. The espresso you get in New York is going to taste exactly like the one you got in Hong Kong, or New Delhi - that's actually kind of impressive. Still, if you're someone that likes their beans just past the second 'crack' - you might find their espresso a bit too dark, a bit too bitter and a bit too expensive to be accepting of a disappointment. </p>
 
 <p>Now, the coffee that they sell <em>in bags</em> gives you plenty of options - you can still get a nice blonde-roasted bag of single source Arabica at many locations. If you're there to order something with milk in it, then you're probably not going to notice just how dark the beans really taste - you'll probably just enjoy your coffee.</p>
 
 <p>However, if you tend to take espresso straight, or a drink that is basically espresso cut with water or very little milk, you might thumb your nose in the air a bit. Then again, I'd take a bitter-ish espresso over a cup of bland-ish drip any day.</p>
 
 <p>People love to complain if given the opportunity. If you like their espresso, enjoy it - if not, well, drink other espresso :)</p>
-",101,2015-01-28T12:44:06.413,,,,3
-136,2,,2015-01-28T13:21:36.660,2,,"<p>Jacobs Cronat Gold is smoother and more mild than Jacobs Krönung Instant coffee.
+"
+"<p>Jacobs Cronat Gold is smoother and more mild than Jacobs Krönung Instant coffee.
 Krönung is blended with coffee of various regions across the world, Cronat Gold is not. It's the closest to home-brewed coffee (i.e coffee from the European Highlands). 
 No idea about the cost difference though.</p>
 
 <p>Sourced from <a href=""http://www.enjoybettercoffee.com/"" rel=""nofollow"">http://www.enjoybettercoffee.com/</a></p>
-",132,2015-01-28T13:21:36.660,,,,0
-137,1,393,2015-01-28T13:24:19.927,5,84,"<p>In my never-ending quest to get just a <em>little</em> more crema out of every shot, I've been experimenting with some advice I received from a barista - allow the puck to warm a bit in the porta filter on the group head prior to pre-infusing and pulling.</p>
+"
+"<p>In my never-ending quest to get just a <em>little</em> more crema out of every shot, I've been experimenting with some advice I received from a barista - allow the puck to warm a bit in the porta filter on the group head prior to pre-infusing and pulling.</p>
 
 <p>I have tried this, and I'm still skeptical - I don't really see a difference in the amount of crema that I get. I've tried a few different beans with this experiment:</p>
 
@@ -744,8 +744,8 @@ No idea about the cost difference though.</p>
 <p>Is this an old wive's tale? Am I not letting it get hot enough or for long enough? Is Arabica just too gentle of a bean for this to work? The reason I'm trying to get more crema is for a few new deserts I'd like to make, the coffee is still delicious, I just hoped that the experiment would yield more.</p>
 
 <p>Brewing using a Breville Barista Express (manual mode), if it makes any difference.</p>
-",101,2015-02-09T19:22:06.897,Does pre-heating a puck on the group head produce more crema?,<espresso><crema>,1,1
-138,2,,2015-01-28T13:34:08.870,12,,"<h2>Basics</h2>
+"
+"<h2>Basics</h2>
 
 <p><strong>Decaffeination</strong> (<em>decaf</em>) is the removal of <strong>caffeine</strong> from coffee beans, cocoa,  and other caffeine-containing materials. While soft drinks which do not use caffeine as an ingredient are sometimes described as ""decaffeinated"", they are better termed ""uncaffeinated"" because decaffeinated implies that there was caffeine present at one point in time. Decaffeinated drinks contain typically 1–2% of the original caffeine content or sometimes as much as 20%.</p>
 
@@ -775,10 +775,10 @@ No idea about the cost difference though.</p>
 
 <p>This is not my opinion although I don't have decaf, but just something I picked up on the net:
 <img src=""http://i.stack.imgur.com/j5w3t.jpg"" alt=""I don&#39;t know?!""></p>
-",132,2015-01-28T13:34:08.870,,,,0
-139,1,141,2015-01-28T13:46:30.137,23,1308,"<p>Kopi luwak, i.e. Vietnamese weasel coffee, is made from beans that have been consumed and excreted by civets.  It can cost as much as $3000/lb, so few have probably tried it. This process doesn't seem incredibly sanitary.   Is this coffee safe to drink?  Do people contract diseases from drinking it?</p>
-",110,2016-05-24T07:04:15.163,Is Kopi Luwak safe to drink?,<health><kopiluwak>,4,2
-140,2,,2015-01-28T13:49:02.783,16,,"<p><img src=""http://i.stack.imgur.com/MzlPd.png"" alt=""THIS SHOULD HELP :)""></p>
+"
+"<p>Kopi luwak, i.e. Vietnamese weasel coffee, is made from beans that have been consumed and excreted by civets.  It can cost as much as $3000/lb, so few have probably tried it. This process doesn't seem incredibly sanitary.   Is this coffee safe to drink?  Do people contract diseases from drinking it?</p>
+"
+"<p><img src=""http://i.stack.imgur.com/MzlPd.png"" alt=""THIS SHOULD HELP :)""></p>
 
 <ul>
 <li>One reason that the taste isn't as good for Robusta is that it has more caffeine compared to Arabica. Which may sound like a positive thing but caffeine carries a bitter taste which makes it an unpleasant drink. In fact the Robusta bean has 2.7% caffeine content, almost double the 1.5% of Arabica.</li>
@@ -798,8 +798,8 @@ One thing to note is despite the association with Arabica of being higher qualit
 </ul>
 
 <p>Sourced from <a href=""http://theroasterspack.com/"">http://theroasterspack.com/</a></p>
-",132,2015-01-28T13:49:02.783,,,,0
-141,2,,2015-01-28T13:58:33.807,34,,"<p>Yes, it's perfectly safe to drink and <em>extremely delicious</em>. In The Philippines, we often call this 'Kopi <a href=""http://en.wikipedia.org/wiki/Asian_palm_civet"">Alamid</a>', and it truly is one of the rarest coffees on the planet. At around $20 per 75 grams (local price), it's also one of the world's most expensive coffees. </p>
+"
+"<p>Yes, it's perfectly safe to drink and <em>extremely delicious</em>. In The Philippines, we often call this 'Kopi <a href=""http://en.wikipedia.org/wiki/Asian_palm_civet"">Alamid</a>', and it truly is one of the rarest coffees on the planet. At around $20 per 75 grams (local price), it's also one of the world's most expensive coffees. </p>
 
 <p>The palm civet is a nocturnal cat (well, more like a ferret, but technically a cat) that eats the berries (beans) and is <em>extremely</em> picky in its diet. For the civet to choose a bean, it has to be <em>just right</em> when it comes to the aroma, and given the sensitivity of this creature's nose, said aroma means the bean is perfect. Some say the digestive process itself lends to better flavor, it can be a matter of heated debate depending on where you ask ;)</p>
 
@@ -810,8 +810,8 @@ One thing to note is despite the association with Arabica of being higher qualit
 <p>If you have a hand-powered burr grinder, I recommend using it and grinding pretty gingerly, even the heat of most ceramic grinders is enough to lose a little bit of the fruity taste you'd otherwise get. Really, treat these beans like royalty, they're that good.</p>
 
 <p>If you buy some, try to avoid buying from farms with captive civets - the growing popularity of this coffee has led to a cottage trapping industry, which is (unfortunately) likely to seriously endanger them soon.</p>
-",101,2015-01-28T14:11:57.570,,,,5
-142,2,,2015-01-28T14:23:30.707,6,,"<p>Each new bean becomes a bit of an experiment with each new machine you use.</p>
+"
+"<p>Each new bean becomes a bit of an experiment with each new machine you use.</p>
 
 <p>A rule of thumb is to grind just enough to fill the portafilter so the beveled edge of the tamper becomes flush with the edge of the portafilter using about 15kg of pressure.</p>
 
@@ -832,8 +832,8 @@ One thing to note is despite the association with Arabica of being higher qualit
 <p>You can get grinders that auto tamp for you based on your settings, so when you hit that 'eureka!' moment, you can reproduce it somewhat reliably <em>using the same equipment</em>. For home use? Just be ready to experiment with the first few filters full when you get beans you haven't tried before.</p>
 
 <p>There's no real 'rule' here, other than you want as much coffee as you can get in the filter with the tamper sinking flush given about 15kg-ish of pressure. It varies wildly from there.</p>
-",101,2015-01-28T16:46:43.540,,,,0
-143,2,,2015-01-28T14:26:45.020,6,,"<ol>
+"
+"<ol>
 <li><p>Coffee enthusiasts &amp; aficionados identify acidity as the dry, bright &amp; sparkling sensation that sets a high-quality, high-grown coffee apart from a mundane, lower-grown coffee. Admittedly, this is the rather snooty way of looking at the issue, though it is true that many highly-prized coffees are grown at high elevation &amp; are characterized by their bright, nuanced qualities.</p></li>
 <li><p>On the scientific side, acidity is something to be measured on the pH scale, which uses 7.0 as an indicator of neutrality, numbers under 7 as more acidic &amp; numbers above 7 as lower-acid (or basic). Lemon juice registers at about 2.0; milk at 6.5. A typical higher-acid breakfast blend coffee might land somewhere around 4.7. (Note that ""black coffee"" is marked on the scale below as a 5; this is an average &amp; certainly not universal.)    </p></li>
 <li><p>The amount of chlorogenic acid (CGA) is a natural chemical compound which is the ester of caffeic acid and (-)-quinic acid can also determine acidity.</p></li>
@@ -847,8 +847,8 @@ My choice for a optimal coffee would be the <em>Arabica</em> variety somewhere f
 
 <p>Just for motivation and joblessness:
 <img src=""http://i.stack.imgur.com/YnF66.jpg"" alt=""THIS IS FOR MORALE BOOST""></p>
-",132,2015-01-28T14:26:45.020,,,,0
-144,2,,2015-01-28T14:29:26.330,5,,"<p>The Keurig 2.0 machine is looking for an element (perhaps magnetic?) that is embedded in the authorized pods. The site <a href=""http://www.keurighack.com/"">KeurigHack.com</a> contains a video that shows a simple technique for bypassing this feature.</p>
+"
+"<p>The Keurig 2.0 machine is looking for an element (perhaps magnetic?) that is embedded in the authorized pods. The site <a href=""http://www.keurighack.com/"">KeurigHack.com</a> contains a video that shows a simple technique for bypassing this feature.</p>
 
 <p>Basically you need one lid from an authorized pod that you can place on top of your pods so that the Keurig 2.0 accepts these pods. The video goes on to show that it's fairly easy to make this a permanent change just by applying some tape to your authorized lid so that it sticks to the roof of the pod enclosure. The following screenshots were taken from the video. Enjoy!</p>
 
@@ -857,14 +857,14 @@ My choice for a optimal coffee would be the <em>Arabica</em> variety somewhere f
 
 <p>Step 2: Place lid over any other pod.
 <img src=""http://i.stack.imgur.com/1CM1u.png"" alt=""enter image description here""></p>
-",133,2015-01-28T14:29:26.330,,,,0
-145,2,,2015-01-28T14:32:50.120,9,,"<p>There's a trade-off here. If you're working in a fast-paced coffee shop, you're likely to favour the faster option (knock out the coffee) over cleaning. Generally knocking out the coffee will get rid of >99% of the grounds from the previous pull, so the impact on the flavour of the next one will be so slight as to be unnoticeable. Usually the portafilter won't even have time to dry out, so the coffee won't dry on and clog up the portafilter.</p>
+"
+"<p>There's a trade-off here. If you're working in a fast-paced coffee shop, you're likely to favour the faster option (knock out the coffee) over cleaning. Generally knocking out the coffee will get rid of >99% of the grounds from the previous pull, so the impact on the flavour of the next one will be so slight as to be unnoticeable. Usually the portafilter won't even have time to dry out, so the coffee won't dry on and clog up the portafilter.</p>
 
 <p>If you're making multiple coffees one after another, reusing the portafilter is probably acceptable.</p>
 
 <p>However if you're leaving the coffee machine alone, it's best to at least rinse out the portafilter before you (or the next person) comes to use it. Once the grounds/coffee start to dry, it'll clog up and be much harder to clean further down the line.</p>
-",127,2015-01-28T14:32:50.120,,,,0
-146,2,,2015-01-28T14:38:57.277,19,,"<p>The flavor constituents of roasted coffee are the result of high roasting temperatures. After roasting, they continue to be affected by environmental factors, their own natural instability, and interaction with other compounds. The most important of these processes are:</p>
+"
+"<p>The flavor constituents of roasted coffee are the result of high roasting temperatures. After roasting, they continue to be affected by environmental factors, their own natural instability, and interaction with other compounds. The most important of these processes are:</p>
 
 <ul>
 <li>Dissipation into other media. Aromatics evaporate from the surface of the coffee into the atmosphere or are dissolved into solvents, where they often interact with other chemicals.</li>
@@ -883,8 +883,8 @@ My choice for a optimal coffee would be the <em>Arabica</em> variety somewhere f
 </blockquote>
 
 <p>Sourced from <a href=""http://www.blackbearcoffee.com/"">http://www.blackbearcoffee.com/</a> and <a href=""http://www.reddit.com/r/askscience"">http://www.reddit.com/r/askscience</a></p>
-",132,2015-01-28T14:38:57.277,,,,1
-147,1,,2015-01-28T14:47:42.027,13,246,"<p>My question is as simple as it sounds. I want to know <strong>which ingredient in coffee makes me poop</strong>.</p>
+"
+"<p>My question is as simple as it sounds. I want to know <strong>which ingredient in coffee makes me poop</strong>.</p>
 
 <p>I'm sure everyone has experienced it. You drink a (couple) cup(s) of coffee and a few minutes later you'll find yourself rushing to the toilet.
 I personally don't drink a lot of coffee. I drink one cup a day (only from We. to Fr.) and occasionally a cup on Weekends.</p>
@@ -901,8 +901,8 @@ I personally don't drink a lot of coffee. I drink one cup a day (only from We. t
 </ul>
 
 <p>I tried googling a bit, but haven't found a meaningful answer. Seems like scientists can't agree which ingredient causes it or whether it's even scientifically proven that coffee has a laxative effect.</p>
-",140,2015-01-28T16:29:59.220,What ingredient in coffee has a laxative effect?,<digestion>,1,7
-148,2,,2015-01-28T14:54:36.957,13,,"<p>The Civet cat is out of the Java bag, and people around the world are bidding up the cost for this delicious coffee to $200-400/lb. and above.</p>
+"
+"<p>The Civet cat is out of the Java bag, and people around the world are bidding up the cost for this delicious coffee to $200-400/lb. and above.</p>
 
 <p>While I would like to convince you this coffee is dangerous and give you my address so you can send it to me for proper disposal, honesty compels me to point out the proper preparation makes it perfectly safe for human consumption.</p>
 
@@ -911,16 +911,16 @@ I personally don't drink a lot of coffee. I drink one cup a day (only from We. t
 <p>Harvesting of <a href=""http://www.realkopiluwak.com/process/"">Civet green beans</a> is very labor intensive, with each bean being individually graded after washing and drying.  Then the best of the beans are typically given <a href=""http://www.coffeereview.com/review/kopi-luwak-arabica-medium-roast/"">a medium roast</a>, <a href=""http://www.coffeecrossroads.com/coffee-101/coffee-roasts-from-light-to-dark"">reaching internal temperatures between 410°F and 428°F</a>.  </p>
 
 <p>This is hot enough to kill any bacteria. Compare the <a href=""http://www.foodsafety.gov/keep/charts/mintemp.html"">recommended safe cooking temperatures</a> for meat at 140°F to 165°F, or even the <a href=""http://www.sterilizers.com/autoclave-time-temperature-pressure-chart.html"">autoclave temperature</a> of 250°F.</p>
-",34,2015-01-30T15:35:16.433,,,,0
-149,1,169,2015-01-28T15:04:33.353,14,207,"<p>Actual scientific information on the effects of food and drink is notoriously hard to sift from all the dieting pseudoscience. I know that caffeine is a diuretic, which means it will cause me to lose more water, but given that I'm dosing up on it with water, will I lose more water than I gain? Even if it doesn't for longer drinks, will drinking espresso result in a net loss of water?</p>
-",127,2015-01-28T23:10:50.567,Does coffee cause dehydration?,<health>,3,2
-150,1,,2015-01-28T15:08:27.487,4,262,"<p>Is it better to use whole (full-fat) or semi/skimmed milk for a cappuccino, or does it make no difference (other than the taste)?</p>
+"
+"<p>Actual scientific information on the effects of food and drink is notoriously hard to sift from all the dieting pseudoscience. I know that caffeine is a diuretic, which means it will cause me to lose more water, but given that I'm dosing up on it with water, will I lose more water than I gain? Even if it doesn't for longer drinks, will drinking espresso result in a net loss of water?</p>
+"
+"<p>Is it better to use whole (full-fat) or semi/skimmed milk for a cappuccino, or does it make no difference (other than the taste)?</p>
 
 <p>Will one type of milk be easier to froth?</p>
-",127,2015-01-28T16:18:45.293,Is it easier to froth full-fat milk?,<milk>,2,0
-151,2,,2015-01-28T15:15:03.660,3,,"<p>From experience it seems slightly easier and is less runny. The difference for me is pretty negligible with semi-skimmed vs. whole milk. Skimmed on the other hand always ends up quite watery for me, but that may have something to do with the way I'm frothing it.</p>
-",57,2015-01-28T15:15:03.660,,,,0
-152,2,,2015-01-28T15:19:35.690,12,,"<p>More expensive coffee machines typically have better ""plumbing"", including some and even all of the following:</p>
+"
+"<p>From experience it seems slightly easier and is less runny. The difference for me is pretty negligible with semi-skimmed vs. whole milk. Skimmed on the other hand always ends up quite watery for me, but that may have something to do with the way I'm frothing it.</p>
+"
+"<p>More expensive coffee machines typically have better ""plumbing"", including some and even all of the following:</p>
 
 <ul>
 <li><strong>2 boilers / HX</strong> to allow for frothing and brewing at the same time</li>
@@ -940,16 +940,16 @@ I personally don't drink a lot of coffee. I drink one cup a day (only from We. t
 <p>As for the price difference, most of these features will raise the price by themselves and a lot of the more expensive machines are hand-made as well.</p>
 
 <p><strong>Last point</strong> they are also very pretty and a status symbol, not to the extent of let's say a very expensive watch but it does sort of feel that way sometimes.</p>
-",57,2015-01-28T17:37:26.087,,,,0
-153,1,,2015-01-28T15:22:57.537,9,109,"<p>I have a La Pavoni Pro, and noticed that I am a bit inconsistent with the crema. I have read <a href=""http://coffee.stackexchange.com/questions/9/what-factors-affect-espresso-crema"">this other post on crema</a> and understand the freshness of the beans are the most important part, but I have noticed even with the same beans my crema is not the same. There are a lot of variables with the La Pavoni, tamp, grind, pull, temperature of the machine etc. What variables should I should focus on after considering the freshness of the beans?</p>
-",5,2015-02-24T15:09:01.250,Generating Crema with a manual machine,<espresso><crema>,1,4
-154,2,,2015-01-28T15:47:33.580,4,,"<p>As I understand it caffeine itself is a mild diuretic. Some say this effect quickly goes away (within a week). Even if it does not for coffee the mildness of the diuretic is mostly compensated by the water intake.</p>
+"
+"<p>I have a La Pavoni Pro, and noticed that I am a bit inconsistent with the crema. I have read <a href=""http://coffee.stackexchange.com/questions/9/what-factors-affect-espresso-crema"">this other post on crema</a> and understand the freshness of the beans are the most important part, but I have noticed even with the same beans my crema is not the same. There are a lot of variables with the La Pavoni, tamp, grind, pull, temperature of the machine etc. What variables should I should focus on after considering the freshness of the beans?</p>
+"
+"<p>As I understand it caffeine itself is a mild diuretic. Some say this effect quickly goes away (within a week). Even if it does not for coffee the mildness of the diuretic is mostly compensated by the water intake.</p>
 
 <p>I suppose in the case of espresso there may be a net loss of water, but it would still be very minimal.</p>
 
 <p>I am not a doctor, so I have not fully researched this. I have not provided links because there is such varied opinion on the topic. Someone from the medical community might be able to provide a definitive reference.</p>
-",23,2015-01-28T15:47:33.580,,,,1
-155,2,,2015-01-28T16:18:45.293,3,,"<p>The short answer is yes. The absence of the milk fats means that the foam will not ""coagulate"" as easily. </p>
+"
+"<p>The short answer is yes. The absence of the milk fats means that the foam will not ""coagulate"" as easily. </p>
 
 <blockquote>
   <p>The proteins chains in milk are polar: one end of the chain is
@@ -969,8 +969,8 @@ I personally don't drink a lot of coffee. I drink one cup a day (only from We. t
 <p>For a wonderful article on the topic see:</p>
 
 <p><a href=""http://drinks.seriouseats.com/2013/12/milk-foam-what-is-microfoam-why-does-milk-foam-what-is-a-cappuccino-coffee.html"" rel=""nofollow"">http://drinks.seriouseats.com/2013/12/milk-foam-what-is-microfoam-why-does-milk-foam-what-is-a-cappuccino-coffee.html</a></p>
-",141,2015-01-28T16:18:45.293,,,,0
-156,2,,2015-01-28T16:20:01.423,8,,"<p>Disclaimer: I am not a doctor, nor do I play one on TV...</p>
+"
+"<p>Disclaimer: I am not a doctor, nor do I play one on TV...</p>
 
 <p>I would guess that it is a combination of a few factors.</p>
 
@@ -1002,30 +1002,30 @@ I personally don't drink a lot of coffee. I drink one cup a day (only from We. t
 <li>I don't know if there have been any real studies on this, but I strongly suspect that there is some <a href=""http://en.wikipedia.org/wiki/Classical_conditioning"">Classical Conditioning</a> going on. Much like Pavlov's dogs who were conditioned to salivate at the sound of a bell, if your usual morning routine is to have a cup of coffee and then head to the restroom, over time you end up conditioning your self to do this regardless of whether or not the coffee is really ""making you poop"". </li>
 </ul></li>
 </ol>
-",31,2015-01-28T16:20:01.423,,,,4
-157,1,177,2015-01-28T16:29:16.517,12,785,"<p>Lattes are often served in a cup that looks like this:</p>
+"
+"<p>Lattes are often served in a cup that looks like this:</p>
 
 <p><a href=""http://silvestregustolatino.com/magento/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/l/a/latte.jpg""><img src=""http://i.stack.imgur.com/qxlNN.jpg"" alt=""latte cup image""></a></p>
 
 <p>Apart from size, is there a particular reason for the <em>shape</em> of the cup? I know that, with cocktails, the many different cocktail glasses you can get are suited to different kinds of drinks. I'm assuming it's the same here, so what is it about a latte that makes it suited for this shape of mug?</p>
-",145,2015-02-05T17:27:33.907,"Why are lattes often served in big, wide cups?",<latte><cup>,2,0
-158,2,,2015-01-28T16:43:04.263,7,,"<p>If you stop washing your mocha pot completely, you'll see a bit of a residue buildup  on the inside of the pot from many past cuppas imparting their special oils to surface. This ""seasoning"" is said to protect the brew from any off flavors that might be imparted by the bare metal of the pot. </p>
+"
+"<p>If you stop washing your mocha pot completely, you'll see a bit of a residue buildup  on the inside of the pot from many past cuppas imparting their special oils to surface. This ""seasoning"" is said to protect the brew from any off flavors that might be imparted by the bare metal of the pot. </p>
 
 <p>Whether this effect can be quantified by a perceptible difference in taste, I see no reason to part with tradition; it is a badge of honor and the sign of a well-used pot. At the very least, you are saving yourself a lot of trouble in having to clean it out each time. You can certainly clean the <em>outside</em> with an appropriate cleaner if the patina isn't to your liking, but I would just rinse the inside with hot water. Liquid detergents have a way of imparting their own taste, and dishwashers will can quickly oxidize aluminum pots like the Bialetti.</p>
-",137,2015-01-28T16:43:04.263,,,,1
-159,1,,2015-01-28T16:46:59.173,5,348,"<p>I found a 10 year old package of coffee. Is it safe to brew it? Or should I get a new one?</p>
-",65,2015-01-28T17:15:09.480,Is it safe to brew old coffee?,<health>,1,5
-160,1,,2015-01-28T17:13:05.010,10,117,"<p>Ground coffee looses quickly its flavour. It's especially painful for singles living in rented apartment (no coffee machine) and having only big packages in nearby groceries...</p>
+"
+"<p>I found a 10 year old package of coffee. Is it safe to brew it? Or should I get a new one?</p>
+"
+"<p>Ground coffee looses quickly its flavour. It's especially painful for singles living in rented apartment (no coffee machine) and having only big packages in nearby groceries...</p>
 
 <p>But what actually happens to that coffee? What is lost, other then flavour? How the taste is affected? Does the caffeine amount also changes? Do some chemical processes happen, that can make such an old coffee unhealthy?</p>
-",48,2015-03-10T20:18:02.440,What actually happens with the ground coffee that lost its flavour?,<storage><flavor>,1,0
-161,2,,2015-01-28T17:13:35.263,5,,"<p>I prefer lattes in big wide cups as it allows me to enjoy it with a multitude of senses.</p>
+"
+"<p>I prefer lattes in big wide cups as it allows me to enjoy it with a multitude of senses.</p>
 
 <p>The process of consuming starts by absorbing the warmth of the cup into my hands. This tells me if the latte is too hot to consume. The process also conjures up memories of the <a href=""http://youtu.be/Dx6JKEyKdPE?t=8m10s"" rel=""nofollow"">Japanese green tea ceremony</a> where two hands are used to drink. It makes me feel connected to traditions that are hundreds of years old.</p>
 
 <p>The wide cup allows for the aroma to reach your nose. Before I drink, I will smell the bitterness of the coffee, the fat from the foam, and perhaps chocolate or cinnamon sprinkled on top. Try with a to-go with a lid on... the experience is not the same. The mouth and tongue feel on smooth porcelain is a pleasant experience that a to-go cup nor a clear bar glass can provide.</p>
-",147,2015-02-05T17:27:33.907,,,,3
-162,2,,2015-01-28T17:15:09.480,1,,"<blockquote>
+"
+"<blockquote>
   <p>If it's refrigerated, it'll last for at least a week, as long as you didn't pre-dairy it.
   Unrefrigerated, I wouldn't trust it for more than a day. Coffee is a crappy growth medium        and it should start out the next best thing to sterile, but, even covered, its going to start to get moldy.
   Obviously if you add dairy, then you're dealing with that dairy shelf-life, and that isn't very long at all.</p>
@@ -1044,16 +1044,16 @@ I personally don't drink a lot of coffee. I drink one cup a day (only from We. t
 <p>I would close this question as ""Too broad"" but then.</p>
 
 <p>Sourced from <a href=""http://www.coffeebrewguides.com/"" rel=""nofollow"">http://www.coffeebrewguides.com/</a> and <a href=""http://cooking.stackexchange.com/"">http://cooking.stackexchange.com/</a></p>
-",132,2015-01-28T17:15:09.480,,,,0
-163,1,172,2015-01-28T17:19:04.800,8,67,"<p>After making a shot (or multiple shots) of espresso, there appears to be a lot of activity going on. The best I can compare it to, visually, is a pint of Guinness settling.</p>
+"
+"<p>After making a shot (or multiple shots) of espresso, there appears to be a lot of activity going on. The best I can compare it to, visually, is a pint of Guinness settling.</p>
 
 <p>Is it best to allow the shot to complete this 'settling,' or is this unnecessary as nothing really happens in this ~30 seconds after pulling?</p>
-",2,2015-01-28T21:23:02.500,Is it necessary to allow a shot of espresso to rest before adding it to a drink?,<brewing-process><espresso>,2,0
-164,1,381,2015-01-28T17:22:33.067,3,527,"<p>A long black is made by pouring espresso into hot water-- effectively the reverse of an americano.</p>
+"
+"<p>A long black is made by pouring espresso into hot water-- effectively the reverse of an americano.</p>
 
 <p>Is there an ideal amount of time, or an ideal temperature, at which the hot water should be allowed to cool to avoid burning the espresso during the combination process?</p>
-",2,2015-02-07T21:32:17.700,"When making a long black, how long should hot water cool before adding espresso before combining?",<brewing-process>,1,3
-165,2,,2015-01-28T17:23:20.090,15,,"<p>Here's a quick rundown of the Aeropress method I use every morning. I end up with a relatively crema-y shot. You'd never mistake it for one from an espresso machine, but there's a good layer all across the top. </p>
+"
+"<p>Here's a quick rundown of the Aeropress method I use every morning. I end up with a relatively crema-y shot. You'd never mistake it for one from an espresso machine, but there's a good layer all across the top. </p>
 
 <p>This is completely unscientific and I can't identify which steps here are the relevant ones for the good results, but maybe if you experiment with some of these adjustments you can identify what works and what doesn't. </p>
 
@@ -1123,8 +1123,8 @@ I personally don't drink a lot of coffee. I drink one cup a day (only from We. t
 </ul>
 
 <p>I'd be interested to see others' results from experiments like these.</p>
-",37,2015-08-07T16:04:24.930,,,,13
-166,2,,2015-01-28T17:27:32.387,25,,"<h1>Whole Bean Coffee Degradation Over Time</h1>
+"
+"<h1>Whole Bean Coffee Degradation Over Time</h1>
 
 <p>Whole bean coffee will go stale within 14 days - on average. The graph below shows the quick 1.5 standard deviation drop in quality within the first 14 days (marked in red). <sub>*See note below for details</sub></p>
 
@@ -1147,10 +1147,10 @@ I personally don't drink a lot of coffee. I drink one cup a day (only from We. t
 <p>Certain other brewing methods, particularly methods optimized for older coffee such a Nel, may show a different degradation curve. </p>
 
 <p>The <em>staling point</em> was selected by a parametric statistical change point analysis, which searches for shifts in the mean and variance of a time series. This time series was modeled for change point analysis using a Poisson distribution as  we're searching for the average number of coffees that go stale within a specific time-point, and the model was set to find <em>at most one change</em>.</p>
-",100,2015-08-09T16:44:04.547,,,,23
-167,1,1841,2015-01-28T17:32:36.943,5,314,"<p>To be more specific, is there a particular label or marking on the package that will indicate if a given Keurig machine uses K-cup label DRM?  (Or is a better term Coffee Rights Management (CRM)?)</p>
-",149,2015-05-13T13:35:42.260,How can I identify which Keurig machines have Keurig 2.0 DRM?,<keurig>,1,2
-168,2,,2015-01-28T17:42:51.437,9,,"<p>To Expand on @Tom Medley's Answer; the pivotal questions are:</p>
+"
+"<p>To be more specific, is there a particular label or marking on the package that will indicate if a given Keurig machine uses K-cup label DRM?  (Or is a better term Coffee Rights Management (CRM)?)</p>
+"
+"<p>To Expand on @Tom Medley's Answer; the pivotal questions are:</p>
 
 <ol>
 <li>How much time is lapsing between pulls of espresso? </li>
@@ -1162,8 +1162,8 @@ I personally don't drink a lot of coffee. I drink one cup a day (only from We. t
 <p>If you are pulling shots of espresso with less than 3 minutes between pulls, than the above process is enough, as there isn't enough time for the minute amount of remaining coffee oil to oxidize and become rancid at a tasteable threshold. If there is longer than 3 minutes between pulls, the portafilter should be thoroughly cleaned. </p>
 
 <p>Likewise, if you are pulling different espressos (for example, a standard blend and a single origin), you should thoroughly clean the portafilter between pulls. </p>
-",100,2015-01-28T17:42:51.437,,,,0
-169,2,,2015-01-28T17:55:15.807,10,,"<p>Though caffeine's action as a diuretic is hotly debated, recently it seems the scientific consensus is that caffeine in normal doses is a weak diuretic in <em>caffeine-naive</em> individuals only (those without a tolerance), and only in doses exceeding 250-300 mg, or 2-3 cups of coffee. To go even further,</p>
+"
+"<p>Though caffeine's action as a diuretic is hotly debated, recently it seems the scientific consensus is that caffeine in normal doses is a weak diuretic in <em>caffeine-naive</em> individuals only (those without a tolerance), and only in doses exceeding 250-300 mg, or 2-3 cups of coffee. To go even further,</p>
 
 <blockquote>
   <p>A profound tolerance to the diuretic and other effects of caffeine
@@ -1187,44 +1187,44 @@ I personally don't drink a lot of coffee. I drink one cup a day (only from We. t
 </blockquote>
 
 <p><a href=""http://www.beverageinstitute.org/expert/laying-the-caffeine-dehydration-myth-to-rest/"">Here</a> is another good resource for answering these questions in a clear, FAQ-style and features a good list of references on the topic.</p>
-",78,2015-01-28T17:55:15.807,,,,4
-170,1,179,2015-01-28T18:07:44.810,9,78,"<p>Our lovely <a href=""http://www.lamarzocco.com/en/products/linea.html"">La Marzocco Linea</a> at Stack HQ is a workhorse. Lots of people making lots of drinks, many of which require the frothing of milk. We are regularly reminded to clean the steam wand to prevent damage to the machine.</p>
+"
+"<p>Our lovely <a href=""http://www.lamarzocco.com/en/products/linea.html"">La Marzocco Linea</a> at Stack HQ is a workhorse. Lots of people making lots of drinks, many of which require the frothing of milk. We are regularly reminded to clean the steam wand to prevent damage to the machine.</p>
 
 <p>But what happens to the machine if you fail to thoroughly clean the steam wand?</p>
-",2,2015-01-28T21:04:16.600,What happens if you fail to clean a steam wand after frothing milk?,<maintenance>,2,0
-171,1,,2015-01-28T18:08:38.557,12,976,"<p>I first encountered the practice of never washing a coffee cup, when I was sternly warned, and nearly physically threatened by a former employer to never wash his coffee cup. </p>
+"
+"<p>I first encountered the practice of never washing a coffee cup, when I was sternly warned, and nearly physically threatened by a former employer to never wash his coffee cup. </p>
 
 <p>Apparently it is <a href=""http://www.navyhistory.org/2013/11/dont-wash-that-coffee-mug/"">an old military tradition</a> to never wash out your coffee cup, and being a retired service man he continued the practice.</p>
 
 <p>Is there any logic behind this, does it noticeably effect the coffee, or is this just an old, superstitious tradition?</p>
-",31,2015-11-10T00:08:44.707,Coffee cup patina; is there any logic in not washing the cup,<flavor><tradition><cup>,1,0
-172,2,,2015-01-28T18:12:43.553,4,,"<p>Not necessary in my opinion.  In fact, i prefer to add it as soon as possible.  The activity you describe is the crema dissipating.  I prefer a lot of crema...  if you wait 30 seconds, there should still be decent crema integrity.  By the way, Starbucks trains their baristas to add the shot within 10 seconds of brewing.</p>
-",110,2015-01-28T18:12:43.553,,,,0
-173,2,,2015-01-28T18:15:44.733,2,,"<p>I cant speak for this particular machine,  but i failed to clean the steam frother on my old machine and residual milk caked on to the (aluminum) wand! I tried everything to get the residue off but not even sandpaper worked.</p>
-",110,2015-01-28T18:15:44.733,,,,0
-174,2,,2015-01-28T18:22:43.580,6,,"<p>It may be superstition but many people, myself included, don't wash out their coffee cups. I rinse out my cup but don't wash it - I don't want soap going into my favorite coffee cup. I like the way it smells of coffee. I don't have to see or touch my favorite coffee or tea cup to know which one is which. </p>
+"
+"<p>Not necessary in my opinion.  In fact, i prefer to add it as soon as possible.  The activity you describe is the crema dissipating.  I prefer a lot of crema...  if you wait 30 seconds, there should still be decent crema integrity.  By the way, Starbucks trains their baristas to add the shot within 10 seconds of brewing.</p>
+"
+"<p>I cant speak for this particular machine,  but i failed to clean the steam frother on my old machine and residual milk caked on to the (aluminum) wand! I tried everything to get the residue off but not even sandpaper worked.</p>
+"
+"<p>It may be superstition but many people, myself included, don't wash out their coffee cups. I rinse out my cup but don't wash it - I don't want soap going into my favorite coffee cup. I like the way it smells of coffee. I don't have to see or touch my favorite coffee or tea cup to know which one is which. </p>
 
 <p>In addition I never use soap on either my coffee or tea filters.</p>
 
 <p>Would I notice the difference if I had two identical mugs - one with the ""patina"" and one without? Maybe not. But I prefer it that way.</p>
-",141,2015-01-28T19:54:32.970,,,,0
-175,2,,2015-01-28T18:28:30.810,5,,"<p>The Italian word <em>macchiato</em> literally means ""marked"" or ""stained"" (related to the word ""immaculate"" [<a href=""http://etymonline.com/index.php?term=immaculate&amp;allowed_in_frame=0"">1</a>]), so really it is an indication to add a small quantity of the ""staining"" liquid, be it espresso or milk.</p>
+"
+"<p>The Italian word <em>macchiato</em> literally means ""marked"" or ""stained"" (related to the word ""immaculate"" [<a href=""http://etymonline.com/index.php?term=immaculate&amp;allowed_in_frame=0"">1</a>]), so really it is an indication to add a small quantity of the ""staining"" liquid, be it espresso or milk.</p>
 
 <p>A <em>caffe macchiato</em> (also called <em>espresso macchiato</em>) is a shot of espresso (or two) with a ""stain"" of steamed milk and sometimes a little foam to indicate there is milk hiding under the espresso's <em>crema</em>.</p>
 
 <p>A <em>latte macchiato</em> is the opposite concept, where steamed milk is ""stained"" by a shot of espresso.</p>
 
 <p>As with any of these drinks, the variations are endless, so recipes and even ratios would be specific to a particular cafe.</p>
-",78,2015-01-28T18:28:30.810,,,,0
-177,2,,2015-01-28T18:36:20.847,11,,"<p>It may be just me, but I think it has to do with aiming for a ratio of foam to liquid in each sip.</p>
+"
+"<p>It may be just me, but I think it has to do with aiming for a ratio of foam to liquid in each sip.</p>
 
 <p>Basically a taller cylindrical cup with the same amount of foam on it would cause the first couple of sips to be mostly, if not entirely, foam. With a shorter wider cup you can have a lot of foam, but in a thinner layer, allowing for a more balanced sip and better mouth feel through the duration of the cup.</p>
-",31,2015-01-28T18:36:20.847,,,,0
-178,1,232,2015-01-28T18:41:21.287,1,83,"<p>Has anyone had experience with reusable Nespresso pixie capsules (similar concept to the Keurig capsules that you can fill/refill with ground coffee)?</p>
+"
+"<p>Has anyone had experience with reusable Nespresso pixie capsules (similar concept to the Keurig capsules that you can fill/refill with ground coffee)?</p>
 
 <p>If so, Is the flavor and crema similar? Does the grind matter? Any other tips? </p>
-",110,2015-01-29T17:37:26.187,Reusable Nespresso pixie capsules,<espresso><nespresso><capsule>,1,0
-2802,2,,2016-05-12T14:37:33.457,0,,"<p>@MT_San hit the nail on the proverbially head. However, I thought this excerpt from an <a href=""http://www.fastcoexist.com/3059625/science-invents-a-better-way-to-boil-water?utm_content=buffer3f928&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer"" rel=""nofollow"">article</a> I read recently might prove to be easier to understand.</p>
+"
+"<p>@MT_San hit the nail on the proverbially head. However, I thought this excerpt from an <a href=""http://www.fastcoexist.com/3059625/science-invents-a-better-way-to-boil-water?utm_content=buffer3f928&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer"" rel=""nofollow"">article</a> I read recently might prove to be easier to understand.</p>
 
 <blockquote>
   <p>When water reaches a boiling point, it doesn't necessarily turn to steam. It needs some kind of physical spot—a ""nucleation site""—to form a bubble. This can be an imperfection or crevice in the surface of the container. <strong>That’s why a clean, scratch-free jug of water heated in the microwave can seem to be below boiling point, but explode as soon as you move it.</strong></p>
@@ -1233,30 +1233,30 @@ I personally don't drink a lot of coffee. I drink one cup a day (only from We. t
 </blockquote>
 
 <p>For safety's sake, purchase an electric kettle if you don't have an oven or hotplate at work to boil water with. Bonavita has an excellent <a href=""http://bonavitaworld.com/products/10l-digital-variable-temperature-gooseneck-kettle"" rel=""nofollow"">gooseneck kettle</a> with a built-in temperature sensor.</p>
-",2493,2016-05-12T14:37:33.457,,,,0
-2803,2,,2016-05-12T18:58:21.740,2,,"<p>While I haven't fallen in love with BPC, I've played around with it while testing out some of our most recent product releases at the coffee company where I work. It's true that you need a higher speed blend than you can get by simply stirring the coffee. </p>
+"
+"<p>While I haven't fallen in love with BPC, I've played around with it while testing out some of our most recent product releases at the coffee company where I work. It's true that you need a higher speed blend than you can get by simply stirring the coffee. </p>
 
 <p>That said, I've had excellent results with my <a href=""http://rads.stackoverflow.com/amzn/click/B005MMNBBQ"" rel=""nofollow"">Kitchenaid stick blender, similar to this one</a>. Depending on the texture you're looking for, you can blend it shorter until the butter seems suspended in the coffee, or longer until it's light and frothy. The two most important things in my experience are very hot coffee (you don't want it congealing before you drink) and good grass-fed butter.</p>
-",2571,2016-05-17T00:25:15.843,,,,0
-2804,2,,2016-05-12T19:03:08.513,0,,"<p>I've been testing out our latest releases (at the coffee company where I work) and found that I needed to brew them all in the same style to really compare the nuance of each roast. I decided to go with cold brew across the board, though I drink the resulting coffee both hot and cold.</p>
+"
+"<p>I've been testing out our latest releases (at the coffee company where I work) and found that I needed to brew them all in the same style to really compare the nuance of each roast. I decided to go with cold brew across the board, though I drink the resulting coffee both hot and cold.</p>
 
 <p>I have had great results with <a href=""http://coffeesock.com"" rel=""nofollow"">the Coffee Sock</a> or on <a href=""http://rads.stackoverflow.com/amzn/click/B00F8LVIYI"" rel=""nofollow"">Amazon</a>, and I really enjoy its simplicity. I am only brewing in much smaller batches (a gallon at a time) but I wonder if that material would give similar benefits (no need for secondary filtration, good pass-through, durable, easy to clean) at a much larger scale?</p>
 
 <p>Would love to hear your thoughts!</p>
-",2571,2016-05-17T00:20:08.937,,,,3
-2805,2,,2016-05-12T19:06:24.607,1,,"<p>I would suggest reaching out to distribution companies directly. Search as if you were a coffee roaster trying to buy beans and you'll find the companies that are selling in bulk.</p>
+"
+"<p>I would suggest reaching out to distribution companies directly. Search as if you were a coffee roaster trying to buy beans and you'll find the companies that are selling in bulk.</p>
 
 <p>I work at a coffee company where we work directly (and almost exclusively) with growers, but most companies are happy to deal with resellers.</p>
-",2571,2016-05-17T00:21:57.470,,,,0
-2806,2,,2016-05-13T00:33:04.657,2,,"<p>I also agree that ""The World Atlas of Coffee"" by James Hoffman is a good book.
+"
+"<p>I also agree that ""The World Atlas of Coffee"" by James Hoffman is a good book.
 It covers a lot of things including the history of coffee, growing and production as well as roasting and brewing. A big section of the book is indeed an atlas, showing various countries and where the coffees are grown. Nice maps and plenty of good photo's too.</p>
 
 <p>If you are already very knowledgeable about coffee and have read many other books on the subject , you probably won't get too much extra out of this but it's certainly more than a quick introduction. I think it would be of great interest for somebody who has become interested in coffee and wants to find out more about the whole process from shrub to cup. </p>
 
 <p>Added another one:
 ""Coffee - A Celebration of Diversity"" by Fulvio Eccardi and Vincenzo Sandali. This was originally published in Italian in 2000 and the English translation became available in 2002, so it's not the most up to date book and I'm not sure whether it's still available but  it is definitely worth grabbing if you can get hold of it. It has beautiful photographs (including some lovely satellite views of coffee growing areas) but is also rich in information. In many ways it overlaps with The World Atlas of Coffee above although it focuses more on the cultivation and production and doesn't have as much on the roasting and brewing. But it's worth getting for the pictures alone.</p>
-",2367,2016-05-15T01:26:48.277,,,,0
-2807,2,,2016-05-13T04:35:24.753,2,,"<p>As others have stated, <a href=""https://en.wikipedia.org/wiki/Superheating"" rel=""nofollow"">superheating</a> can happen in a microwave, especially when using a smooth vessel, e.g. a new, unscratched cup. It is more likely in pure water, but not unheard of from other liquids.</p>
+"
+"<p>As others have stated, <a href=""https://en.wikipedia.org/wiki/Superheating"" rel=""nofollow"">superheating</a> can happen in a microwave, especially when using a smooth vessel, e.g. a new, unscratched cup. It is more likely in pure water, but not unheard of from other liquids.</p>
 
 <p>But you need a hack:<br>
 The key to prevent superheating and a subsequent flash of steam when the cup is moved or so is to supply nucleation sites, or, simply put, some rough surfaces or gas bubbles where the water can turn to vapour.</p>
@@ -1267,45 +1267,45 @@ The key to prevent superheating and a subsequent flash of steam when the cup is 
 <li>But probably the simplest way is floating a toothpick in the mug.</li>
 <li>Or use an old, scratched mug, provided it is microwave-safe.</li>
 </ul>
-",1118,2016-05-13T13:24:57.843,,,,0
-2808,1,,2016-05-13T10:16:20.943,0,14,"<p>I see a coffee shop named Blue Bottle use their paper cups for hot and cold drinks. I wonder what paper-cup tech this is?</p>
+"
+"<p>I see a coffee shop named Blue Bottle use their paper cups for hot and cold drinks. I wonder what paper-cup tech this is?</p>
 
 <p>In my shop experience, using hot cups for cold drinks make them soggy. I'd like to get onboard with their manufacturer, because I don't want to have to keep two kinds of cups!</p>
 
 <p>I wonder if anyone knows. Thanks!</p>
-",2572,2016-05-13T11:10:29.663,What paper cups does can be used for both cold drinks and coffee?,<cup><coffee-shop>,1,2
-2809,2,,2016-05-13T11:08:44.123,1,,"<p>I don't know that company, but I assume <a href=""https://www.youtube.com/watch?v=jrShmBVvntQ"" rel=""nofollow"">insulated paper cup</a> is what you are looking for.</p>
+"
+"<p>I don't know that company, but I assume <a href=""https://www.youtube.com/watch?v=jrShmBVvntQ"" rel=""nofollow"">insulated paper cup</a> is what you are looking for.</p>
 
 <p>You may have a quick Internet search for brands and whole sellers.</p>
-",1848,2016-05-13T11:08:44.123,,,,0
-2810,2,,2016-05-13T11:20:28.767,3,,"<p>I suppose under-roasting and over-roasting are somewhat relative. I generally prefer a lighter roast (just after the completion of first crack) which might be under-roasted to some tastes. </p>
+"
+"<p>I suppose under-roasting and over-roasting are somewhat relative. I generally prefer a lighter roast (just after the completion of first crack) which might be under-roasted to some tastes. </p>
 
 <p>I've occasionally stopped a roast too early and then it's under-roasted to me (and I suspect anybody else) as well! In those cases, the coffee tastes sour and I don't mean acidic, but sour. The sourness is a little like the taste in bread that has got old and soured. It also has a taste that's reminiscent of tea. I like tea but not when when it's meant to be coffee! (If you've ever had Qishr - ""tea"" made from the dried coffee cherry husks - it's pretty close to that, which is not surprising I suppose.)
 There are also other coffee tastes which are just absent from under-roasted coffee - there is simply less of that ""coffee"" taste (and it also disappears of the tongue very quickly) and the coffee also has less body.</p>
 
 <p>If they are not too under-roasted, I find letting the beans rest a lot longer than normal can help a bit.</p>
-",2367,2016-05-13T22:10:44.110,,,,0
-2812,1,2813,2016-05-14T00:34:09.697,4,187,"<p>I recently was about to have a week before I could get my good coffee, so I went to the grocery store and got some of theirs. </p>
+"
+"<p>I recently was about to have a week before I could get my good coffee, so I went to the grocery store and got some of theirs. </p>
 
 <p>Unfortunately, I pulled the lever and got way more grocery store coffee than I could ever need. </p>
 
 <p>It's also terrible. Short of tossing it, is there anything I can do to make it taste better until I get good coffee again? </p>
-",2578,2016-05-21T10:08:11.600,What can I do with bad coffee beans?,<flavor>,4,2
-2813,2,,2016-05-14T00:55:23.557,6,,"<p>If you're wanting ideas that don't include brewing, I would suggest using the coffee grounds as a steak rub or placing the coffee in a compost pile (if you have one).</p>
+"
+"<p>If you're wanting ideas that don't include brewing, I would suggest using the coffee grounds as a steak rub or placing the coffee in a compost pile (if you have one).</p>
 
 <p>Also, there are a number of coffee desserts that are sweet enough to hide the taste of bad coffee. I would suggest giving those a try. Some examples would be a mocha fondue, java pie, or layered mocha cheesecake.</p>
-",1302,2016-05-14T00:55:23.557,,,,1
-2814,2,,2016-05-14T08:32:53.150,6,,"<p>Cold brew it! Make sure you start with very cold water and a coarse grind. Cold-temp chemistry has a better chance of taking what's good and leaving what's bad. </p>
-",2572,2016-05-14T08:32:53.150,,,,0
-2815,1,,2016-05-14T17:03:31.433,2,30,"<p>I would like to know if ghost/crushing burrs produce better particle uniformity than conical burr grinders.</p>
+"
+"<p>Cold brew it! Make sure you start with very cold water and a coarse grind. Cold-temp chemistry has a better chance of taking what's good and leaving what's bad. </p>
+"
+"<p>I would like to know if ghost/crushing burrs produce better particle uniformity than conical burr grinders.</p>
 
 <p>Ghost burrs are particularly not so popular in the US, but some notable brands are from Fuji Royal in Japan, and some steel-manufacturing companies in Taiwan.</p>
 
 <p>Conical burr grinders are used by Breville and Baratza (at least the most legitimate ones). I particularly use the built-in grinder on my Breville, and the uniformity is great, but I'm attracted to the ghost-burr grinders by Fuji Royal and Yang-Chia (amongst other competing companies in Taiwan).</p>
 
 <p>Has anyone owned either of these kinds of grinders?</p>
-",2572,2016-05-14T17:03:31.433,Are ghost-burr grinders better than conical burrs?,<grinder><burr-grinder>,0,3
-2816,2,,2016-05-14T17:40:02.830,2,,"<p>US Barista Champioin Charles Babinski, in his Go Get 'Em shop, grinds coffees ahead of time. I've implemented it in my shop, and it's not so bad, flavorwise. Meticulously weighed shots, ready for consecutive banging. You save money on the grinder.</p>
+"
+"<p>US Barista Champioin Charles Babinski, in his Go Get 'Em shop, grinds coffees ahead of time. I've implemented it in my shop, and it's not so bad, flavorwise. Meticulously weighed shots, ready for consecutive banging. You save money on the grinder.</p>
 
 <p>I also just run a kiosk, and just have one espresso grinder. One time a connection inside it got loose, so it couldn't run. I just set my Taiwanese filter grinder for espresso, and I was grinding shots, Ek43 style.</p>
 
@@ -1333,18 +1333,18 @@ is not so bad for bright filter coffees.</p>
 <ol start=""7"">
 <li>Small rolling table you can place beside your point-of-sale, where customers can rest their stuff while ordering from you. I used to have a lot of counter space where my customers rest their notebooks, laptops, ladies' bags...but then I put my food program on that space. At the end of the day, you can just keep the mini-table behind the counter. </li>
 </ol>
-",2572,2016-05-14T17:40:02.830,,,,0
-2817,2,,2016-05-14T17:43:04.703,1,,"<p>I guess measure density just like you would in a college-lab? Just use a graduated cylinder.</p>
+"
+"<p>I guess measure density just like you would in a college-lab? Just use a graduated cylinder.</p>
 
 <p>Extraction is mostly about how efficiently you can extract coffee solubles with an amount of liquid. Since refractometers are pricy, you can use a 0.1g scale and a graduated cylinder, to measure how heavy your shots are. The denser the better, however you also have to be practical with how long your shots take to be pulled.</p>
-",2572,2016-05-18T03:32:09.580,,,,4
-2818,2,,2016-05-14T17:49:03.700,0,,"<p>I use the french press a lot because of its vibrancy.</p>
+"
+"<p>I use the french press a lot because of its vibrancy.</p>
 
 <p>With your coffee grounds all set in the beaker, pour in the hot water. Use a 1:15 ratio of coffee weight to water weight (g or mL). The coffees will then rise to the surface. You have an option to pat the risen coffee with a spoon, or just don't touch it. After 4 minutes, pat the surface with a spoon to sink the fully-soaked grinds. If you want real perfection, then slough-off the yellow crema. Plunge and pour at a maximum of 90 degrees from vertical, to avoid the fines getting into your mug.</p>
-",2572,2016-05-14T17:49:03.700,,,,0
-2819,2,,2016-05-14T17:51:31.073,-1,,"<p>Breville has some pretty affordable equipment that can make good espresso. The Breville Dual-Boiler, in particular, has received positive feedback from David Schomer himself. </p>
-",2572,2016-05-14T17:51:31.073,,,,0
-2820,2,,2016-05-14T20:05:29.820,1,,"<p>How's the mastering coming?</p>
+"
+"<p>Breville has some pretty affordable equipment that can make good espresso. The Breville Dual-Boiler, in particular, has received positive feedback from David Schomer himself. </p>
+"
+"<p>How's the mastering coming?</p>
 
 <p>Thought I would weigh in to provide a little extra help. I'm a barista and head of customer education at Handground. We are working on a French Press brew guide right now but since it's not done, I'll share a quick tutorial.</p>
 
@@ -1439,21 +1439,21 @@ is not so bad for bright filter coffees.</p>
 </ol>
 
 <p>Manipulating the different variables that change your coffee will become second nature the more you do it. Start sharpening your coffee skills by being methodical with the way you experiment. Adjust only one variable at a time so you can see a clear cause and effect. Most importantly, don't let the pursuit of the perfect cup spoil the fun. Any cup of coffee is better than no cup at all, so enjoy the journey. </p>
-",1786,2016-05-14T20:05:29.820,,,,0
-2821,1,,2016-05-17T00:32:06.087,0,35,"<p>Recently I learned that in some Middle Eastern countries they add cardamom and cloves to their coffee to flavor it.</p>
+"
+"<p>Recently I learned that in some Middle Eastern countries they add cardamom and cloves to their coffee to flavor it.</p>
 
 <p><strong>Are there any other coffee flavorings found around the globe I might not have heard of?</strong></p>
-",2493,2016-05-17T16:49:04.777,What are coffee flavorings found around the globe?,<flavored-coffee>,2,0
-2822,2,,2016-05-17T00:36:20.987,1,,"<p><strong>Try a highly-enriched coffee-drink</strong> (with sugar, cream, etc.) like a latte or perhaps <a href=""https://en.wikipedia.org/wiki/Vietnamese_iced_coffee"" rel=""nofollow"">Vietnamese-style iced coffee</a> with sweetened condensed milk.</p>
+"
+"<p><strong>Try a highly-enriched coffee-drink</strong> (with sugar, cream, etc.) like a latte or perhaps <a href=""https://en.wikipedia.org/wiki/Vietnamese_iced_coffee"" rel=""nofollow"">Vietnamese-style iced coffee</a> with sweetened condensed milk.</p>
 
 <p>As you note in your comment, neither of these are usually my style, either. However, it's a fun change every once in a while. These are what I do when I have a batch of beans that I don't like; it covers up some bitterness, over-roasting, and other off-notes... and since I wouldn't usually consider doing this to beans that I <em>actually like</em>, it's merely opportunistic. :)</p>
-",262,2016-05-17T00:36:20.987,,,,0
-2823,5,,2016-05-17T00:43:19.657,0,,"<p>While the ""flavor"" tag is meant for questions dealing with the inherent flavor characteristics of coffee, ""flavored-coffee"" is meant for questions dealing with flavorings <em>added</em> to coffee to <em>enhance</em> the flavor.</p>
+"
+"<p>While the ""flavor"" tag is meant for questions dealing with the inherent flavor characteristics of coffee, ""flavored-coffee"" is meant for questions dealing with flavorings <em>added</em> to coffee to <em>enhance</em> the flavor.</p>
 
 <p>Added flavorings can range from cultural traditions such as adding cardamom and cloves in certain Middle Eastern countries to more recent phenomenons such as adding coconut oil and grass-fed butter to coffee.</p>
-",2493,2016-05-17T16:26:56.327,,,,0
-2824,4,,2016-05-17T00:43:19.657,0,,"All about flavorings added to coffee (syrups, spices, dairy), as opposed to inherent flavors found in coffee.",2493,2016-05-17T16:26:47.730,,,,0
-2825,2,,2016-05-17T08:54:02.040,2,,"<p>I prefer my coffee flavored just with water. However, it is common for people to flavor their coffee with many other ingredients with respect to their personal preference. As personal preference is closely related to culture, <strong>yes, you may enlist some location-based flavoring ingredients for coffee</strong>.</p>
+"
+"All about flavorings added to coffee (syrups, spices, dairy), as opposed to inherent flavors found in coffee."
+"<p>I prefer my coffee flavored just with water. However, it is common for people to flavor their coffee with many other ingredients with respect to their personal preference. As personal preference is closely related to culture, <strong>yes, you may enlist some location-based flavoring ingredients for coffee</strong>.</p>
 
 <p><strong>In Turkey</strong>, generally, coffee does not have any ingredients except sugar. In the west part, mastic is sometimes added for flavor. This is a common tradition with Greeks, I assume. In the Southeast part, cardamom is rarely added. This is a common tradition with Syrians, I assume. I never heard of cloves around here.</p>
 
@@ -1478,12 +1478,12 @@ is not so bad for bright filter coffees.</p>
 <p><strong>Chicory</strong> is common in Vietnam.</p>
 
 <p><strong>Butter</strong> is common in East Africa, Himalayas and very recently in North America under the fancy name of ""bulletproof"".</p>
-",1848,2016-05-17T12:11:57.640,,,,0
-2827,2,,2016-05-17T16:49:04.777,2,,"<p>In Canada and probably America too, pumpkin spice lattes have taken off and some stores now sell pumpkin pie spice mix which is a great flavouring to plain coffee.</p>
-",2203,2016-05-17T16:49:04.777,,,,2
-2828,2,,2016-05-17T17:30:45.830,3,,"<p>If you drink alcohol, you could also try making Kahlúa. Soak coffee beans and vanilla beans in vodka for a while (3-4 weeks), then mix with a simple syrup.  There are plenty of detailed recipes on the web for it.</p>
-",1719,2016-05-17T20:04:35.830,,,,1
-2829,1,2830,2016-05-18T09:30:30.370,2,28,"<p>I have just bought a VonChef Milk Frother. I am not sure if I am doing something wrong but the following happens when I put milk into the machine up to the maximum and press go:</p>
+"
+"<p>In Canada and probably America too, pumpkin spice lattes have taken off and some stores now sell pumpkin pie spice mix which is a great flavouring to plain coffee.</p>
+"
+"<p>If you drink alcohol, you could also try making Kahlúa. Soak coffee beans and vanilla beans in vodka for a while (3-4 weeks), then mix with a simple syrup.  There are plenty of detailed recipes on the web for it.</p>
+"
+"<p>I have just bought a VonChef Milk Frother. I am not sure if I am doing something wrong but the following happens when I put milk into the machine up to the maximum and press go:</p>
 
 <ol>
 <li>Hemp - it just seems to heat to a lukewarm level</li>
@@ -1492,12 +1492,12 @@ is not so bad for bright filter coffees.</p>
 </ol>
 
 <p>Are my dreams of preparing tasty rice milk lattes not going to happen or should I rather get a Nespresso Milk Frother?</p>
-",2594,2016-05-18T14:34:12.283,How to make lattes with plant milk,<latte><foamed-milk>,1,1
-2830,2,,2016-05-18T12:05:02.747,4,,"<p>You need a high-protein plant milk in order to obtain proper froth as the froth is kept in shape by what are essentially entangled protein molecules. According to google, rice milk only has ~10% of cow milk's protein, which explains why it doesn't work well. Soy milk has pretty much the same percentage of protein as cow milk, so that is worth a try. Coconut milk has ~70% of cow Milk's protein.</p>
+"
+"<p>You need a high-protein plant milk in order to obtain proper froth as the froth is kept in shape by what are essentially entangled protein molecules. According to google, rice milk only has ~10% of cow milk's protein, which explains why it doesn't work well. Soy milk has pretty much the same percentage of protein as cow milk, so that is worth a try. Coconut milk has ~70% of cow Milk's protein.</p>
 
 <p>Regarding the heating: try a different setting of your frother. Heating should work the same no matter what milk you use.</p>
-",1502,2016-05-18T14:34:12.283,,,,0
-2831,5,,2016-05-19T14:27:27.500,0,,"<p>This tag is meant for any questions about the chemistry of coffee and/or the process of brewing coffee. Chemistry must be central to the question, not tangential.</p>
+"
+"<p>This tag is meant for any questions about the chemistry of coffee and/or the process of brewing coffee. Chemistry must be central to the question, not tangential.</p>
 
 <p>Topics might include:</p>
 
@@ -1506,9 +1506,9 @@ is not so bad for bright filter coffees.</p>
 <li>The properties of the caffeine molecule</li>
 <li>The extraction of dissolved solubles</li>
 </ul>
-",2493,2016-05-23T13:48:33.997,,,,0
-2832,4,,2016-05-19T14:27:27.500,0,,"All about the chemistry of coffee, from the Maillard reaction to the extraction of dissolved solubles in coffee.",2493,2016-05-23T13:51:21.077,,,,0
-2833,5,,2016-05-19T14:34:57.897,0,,"<p>This tag is meant for any questions about instant coffee.</p>
+"
+"All about the chemistry of coffee, from the Maillard reaction to the extraction of dissolved solubles in coffee."
+"<p>This tag is meant for any questions about instant coffee.</p>
 
 <p>Topics might include:</p>
 
@@ -1517,9 +1517,9 @@ is not so bad for bright filter coffees.</p>
 <li>Methods of producing instant coffee</li>
 <li>Instant coffee vs. brewed coffee</li>
 </ul>
-",2493,2016-05-23T13:51:17.967,,,,0
-2834,4,,2016-05-19T14:34:57.897,0,,All about instant coffee: processed coffee powder/concentrate directly dissolved in water.,2493,2016-05-23T13:51:06.090,,,,0
-2835,5,,2016-05-19T14:44:22.917,0,,"<p>This tag is meant for questions about caffè lattes.</p>
+"
+All about instant coffee: processed coffee powder/concentrate directly dissolved in water.
+"<p>This tag is meant for questions about caffè lattes.</p>
 
 <p>Topics might include:</p>
 
@@ -1528,9 +1528,9 @@ is not so bad for bright filter coffees.</p>
 <li>Frothing milk for lattes</li>
 <li>The rise of iced lattes</li>
 </ul>
-",2493,2016-05-23T13:51:43.577,,,,0
-2836,4,,2016-05-19T14:44:22.917,0,,All about caffè lattes: a beverage of espresso and steamed milk.,2493,2016-05-23T14:02:54.700,,,,0
-2837,5,,2016-05-19T14:46:38.727,0,,"<p>This tag is meant for questions about foamed (frothed) milk.</p>
+"
+All about caffè lattes: a beverage of espresso and steamed milk.
+"<p>This tag is meant for questions about foamed (frothed) milk.</p>
 
 <p>Topics might include:</p>
 
@@ -1539,15 +1539,15 @@ is not so bad for bright filter coffees.</p>
 <li>Equipment used to froth milk</li>
 <li>Techniques to produce an ideal foam</li>
 </ul>
-",2493,2016-05-23T13:51:50.687,,,,0
-2838,4,,2016-05-19T14:46:38.727,0,,All about foamed (frothed) milk.,2493,2016-05-23T14:03:00.073,,,,0
-2839,1,,2016-05-20T03:39:13.483,4,82,"<p>I'm currently coming up with a coffee article, and suddenly I'm stuck trying to fish my words out of the water -- how has civilization come to appreciate coffee, anyhow? Why did pre-modern societies roast and drink it up, considering the notion that coffee is basically bitter? I mean, if Turkish elites roasted it dark and drank it immediately afterwards, wouldn't that be rather tasteless and overly bitter?</p>
+"
+All about foamed (frothed) milk.
+"<p>I'm currently coming up with a coffee article, and suddenly I'm stuck trying to fish my words out of the water -- how has civilization come to appreciate coffee, anyhow? Why did pre-modern societies roast and drink it up, considering the notion that coffee is basically bitter? I mean, if Turkish elites roasted it dark and drank it immediately afterwards, wouldn't that be rather tasteless and overly bitter?</p>
 
 <p>Did people drink it for the caffeine? Or did they actually like it for its flavor?</p>
 
 <p>I'd just like to hear out some of your insights and the things you've read on coffee's history and coffee in past societies. I'll research on the things you say, and fish some inspiration. </p>
-",2572,2016-05-27T22:09:24.403,Best stories of coffee consumption in historical times?,<history><coffee-culture>,4,5
-2840,2,,2016-05-20T04:09:49.807,3,,"<p>A story often shared as the origin of coffee consumption is that of <em>Kaldi and The Dancing Goats</em>, which comes out of Ethiopia, the birthplace of coffee.</p>
+"
+"<p>A story often shared as the origin of coffee consumption is that of <em>Kaldi and The Dancing Goats</em>, which comes out of Ethiopia, the birthplace of coffee.</p>
 
 <p>Kaldi was a herder who discovered his goats would become rambunctious after eating the berries and leaves of a plant. That plant turned out to be the coffee plant.</p>
 
@@ -1564,14 +1564,14 @@ is not so bad for bright filter coffees.</p>
 <p>This story should be taken with a grain of salt, as whether or not Pope Clement VIII actually said or did what he said, or whether or not his advisors ever broached the topic is a matter of speculation.</p>
 
 <p>That said, there are many more stories surrounding the spread and popularization of coffee. I'll let others add their own stories, as I know there are <strong>many</strong> more out there :)</p>
-",2493,2016-05-20T04:09:49.807,,,,0
-2842,1,2843,2016-05-21T11:55:49.670,3,50,"<p>Found it on a yard sale. It's cheap. Does it look worth going for?
+"
+"<p>Found it on a yard sale. It's cheap. Does it look worth going for?
 I usually brew my cofee in a percolator (or is it called a mocha brewer?), so I'd like it to be usable for that.</p>
 
 <p><a href=""http://i.stack.imgur.com/jtg1h.jpg"" rel=""nofollow""><img src=""http://i.stack.imgur.com/jtg1h.jpg"" alt=""enter image description here""></a>
 <a href=""http://i.stack.imgur.com/Oas4E.jpg"" rel=""nofollow""><img src=""http://i.stack.imgur.com/Oas4E.jpg"" alt=""enter image description here""></a></p>
-",52,2016-05-21T13:18:06.807,Does this look like a decent coffee grinder?,<grinder><identify-this>,1,0
-2843,2,,2016-05-21T12:45:10.823,5,,"<p>It looks like a burr grinder, as opposed to a blade grinder. Burr grinders give a more consistent grind size, which is why they're preferred over blade grinders.</p>
+"
+"<p>It looks like a burr grinder, as opposed to a blade grinder. Burr grinders give a more consistent grind size, which is why they're preferred over blade grinders.</p>
 
 <p>My guess is it's made of steel, but it does look tarnished. You might take it apart and polish it to create a smoother grinding surface.</p>
 
@@ -1580,19 +1580,19 @@ I usually brew my cofee in a percolator (or is it called a mocha brewer?), so I'
 <p>I can't tell if the mechanism has a means of changing the grind size. If not, it may in fact be an old spice mill. Otherwise, it won't allow you much variety when grinding your coffee.</p>
 
 <p>If it's given a little TLC I think it would make a nice vintage manual grinder. Compared to blade grinders, even this older grinder ought to do a better job than they ever could. However, if you can't change the grind size than you'll be limited in the type and quality of the coffee you can brew using it.</p>
-",2493,2016-05-21T13:18:06.807,,,,3
-2844,1,2847,2016-05-21T21:32:23.217,1,132,"<p>I read somewhere that too cold water is what gives coffee its acidity, how does that take place?</p>
+"
+"<p>I read somewhere that too cold water is what gives coffee its acidity, how does that take place?</p>
 
 <p>Furthermore, does that apply only to the water during the brewing process or as my cup of coffee cools down, the acidity increase?</p>
-",2614,2016-05-23T11:11:14.643,What gives coffee its acidic (sour) taste?,<brewing-process><acids>,3,1
-2845,2,,2016-05-23T02:05:17.810,1,,"<p>My first espresso machine was a Nuova Simonelli Oscar which I bought for $400 on Craigslist. I have switched to a fully manual Olympia Cremina since then, which costs three times more, and is in a sense, a far more difficult machine to use. 
+"
+"<p>My first espresso machine was a Nuova Simonelli Oscar which I bought for $400 on Craigslist. I have switched to a fully manual Olympia Cremina since then, which costs three times more, and is in a sense, a far more difficult machine to use. 
 The Oscar was exceptionally temp stable, had massive steaming power, made repeatable shots, and was a whole lot of machine for the money. While mine was an exceptional deal, used Oscars usually go for about $800 on the secondary market. They are built like tanks, easy to use and maintain, and are very repairable with a lot of parts available in case something fails. </p>
 
 <p>However, if you don't mind monitoring a whole lot more variables, a La Pavoni Europiccola runs well below $1k and can make as amazing of espresso shots as your technique allows. Far more fun. </p>
-",2619,2016-05-23T02:05:17.810,,,,1
-2846,2,,2016-05-23T03:33:54.517,0,,"<p>The acidity of the coffee depends on the variety/origin of the coffee (mostly) and the grade of roasting. The more you roast your coffee, the less acidic it becomes.</p>
-",2620,2016-05-23T10:50:37.923,,,,1
-2847,2,,2016-05-23T03:53:40.500,1,,"<p>That's correct: as your cup cools, perceived acidity increases. This is due to variation in the chemical species affected by temperature. </p>
+"
+"<p>The acidity of the coffee depends on the variety/origin of the coffee (mostly) and the grade of roasting. The more you roast your coffee, the less acidic it becomes.</p>
+"
+"<p>That's correct: as your cup cools, perceived acidity increases. This is due to variation in the chemical species affected by temperature. </p>
 
 <p>Coffee is like ice cream. Ice cream is least sweet when it's stone cold, and tart and heavy when it has melted. Similarly, coffee is sweetest (and best) while it's hot, and is bitter or acrid when it has cooled. Furthermore, the cooler temp has led to chemical degradation and thus the awful taste. However, you won't perceive its flavors when the coffee is too hot -- so let it cool a bit.</p>
 
@@ -1601,26 +1601,26 @@ The Oscar was exceptionally temp stable, had massive steaming power, made repeat
 <p>I believe that varying temperature affects coffee flavor in a gradient.</p>
 
 <p>For cold brew (in case you're also curious about that), the cold temperature is a different environment entirely. Coffee is just as soluble, however less energetically kinetic, so more time is substituted for the lack of temperature. The end result is a brew product that functions naturally as a cold product -- nice, sweet, characteristic.</p>
-",2572,2016-05-23T03:53:40.500,,,,0
-2848,2,,2016-05-23T11:11:14.643,1,,"<p>As far as I see, there are a few questions mixed here. Let me clarify this.</p>
+"
+"<p>As far as I see, there are a few questions mixed here. Let me clarify this.</p>
 
 <p>Many different acids are there in your cup: Malic, tannic acid, maleic, oleic, oxalic, caffeic, chlorogenic acids, etc. Also, the carbon dioxide that's produced when the organic molecules are reduced during roasting have an effect on acidity when it's solved in your final cup. All these acidic components are responsible for the overall acidity of the final cup. However, during roasting, generally, the large organic acidic compounds are reduced and overall acidity decreases.</p>
 
 <p>I hope this paragraph answer the main question and @glls's remark. For the second question, I have <em>probably</em> noted a very nice resource below, but my institution does not have access to that paper. If someone could help, we can learn more.</p>
 
 <p><em>O. Fond, “Effect of water and coffee acidity on extraction dynamics of coffee bed compaction in espresso type extraction”, In: Proceedings of the 16th International Scientific Colloquium on Coffee, ASIC (Kyoto). (ASIC, Paris, 1995) pp. 413–420.</em></p>
-",1848,2016-05-23T11:11:14.643,,,,0
-2849,2,,2016-05-24T06:57:25.897,1,,"<p>I agree wholeheartedly that the brand of Soya makes all the difference. With Sainsbury's own it doesn't matter if I heat the Soya, cool the coffee, add before or after - it always curdles. At the other end of the scale Lidl's own never curdles. Looking at the ingredients I see Lidl have something called ""acid regulator"" - heaven knows what that is, but if the acid in the coffee is the problem then the regulator (doing I suppose what the suggested pinch of salt or bicarb does) is the solution.</p>
-",2624,2016-05-26T08:45:57.613,,,,0
-2850,2,,2016-05-24T07:04:15.163,-1,,"<p>Yes it is safe to drink. Many people often hesitate to consume it as the coffee beans are actually partly digested coffee cherries eaten and defecated by the Asian palm civet. But to everyone's surprise it has got many benefits like it is good for ulcer patients, protects teeth and many more. Know all the facts regarding this Indonesian beverage at <a href=""http://www.teasvscoffees.com/en/all-about-kopi-luwak/model-1095-999"" rel=""nofollow"">http://www.teasvscoffees.com/en/all-about-kopi-luwak/model-1095-999</a>.</p>
-",2623,2016-05-24T07:04:15.163,,,,1
-2851,2,,2016-05-24T08:42:36.250,2,,"<p>One interesting story is Ottoman Sultan Murat IV banned coffee consumption in Istanbul in between 1632 to 1640.</p>
+"
+"<p>I agree wholeheartedly that the brand of Soya makes all the difference. With Sainsbury's own it doesn't matter if I heat the Soya, cool the coffee, add before or after - it always curdles. At the other end of the scale Lidl's own never curdles. Looking at the ingredients I see Lidl have something called ""acid regulator"" - heaven knows what that is, but if the acid in the coffee is the problem then the regulator (doing I suppose what the suggested pinch of salt or bicarb does) is the solution.</p>
+"
+"<p>Yes it is safe to drink. Many people often hesitate to consume it as the coffee beans are actually partly digested coffee cherries eaten and defecated by the Asian palm civet. But to everyone's surprise it has got many benefits like it is good for ulcer patients, protects teeth and many more. Know all the facts regarding this Indonesian beverage at <a href=""http://www.teasvscoffees.com/en/all-about-kopi-luwak/model-1095-999"" rel=""nofollow"">http://www.teasvscoffees.com/en/all-about-kopi-luwak/model-1095-999</a>.</p>
+"
+"<p>One interesting story is Ottoman Sultan Murat IV banned coffee consumption in Istanbul in between 1632 to 1640.</p>
 
 <p>The reason is simple, the people were sitting in ""kahvehane""s (the coffeehouses) of Istanbul and discussing politics. He wants to stop people discussing himself, easiest way to stop discussions were getting rid of social areas at all which was coffeehouses back then.</p>
 
 <p>Together with coffee, he also banned, smoking and alcohol. Ironically, Murat IV died at 28 as a result of alcohol poisoning.</p>
-",1848,2016-05-24T08:42:36.250,,,,0
-2852,2,,2016-05-24T09:17:26.710,2,,"<p>Another interesting one is the story of the first coffee house in Vienna. It starts with the <strong>siege of Vienna</strong> by the Ottomans in the end of the 16th century.</p>
+"
+"<p>Another interesting one is the story of the first coffee house in Vienna. It starts with the <strong>siege of Vienna</strong> by the Ottomans in the end of the 16th century.</p>
 
 <p><strong>Jerzy Franciszek Kulczycki</strong> is a Polish/Ukranian man who is now regarded as a hero and known as the owner of the first coffee house of Vienna. Probably, the inventor of cappuccino.</p>
 
@@ -1631,8 +1631,8 @@ The Oscar was exceptionally temp stable, had massive steaming power, made repeat
 <p>Kulczycki's friend Marco d’Aviano who was a Cappuchin monk, thought coffee is quite bitter and choose to add honey and milk into it. When milk added, coffee changed its color from black to brown and looks more like Cappuchin monks traditional robe's color. Kulczycki, named that kind of sweetened coffee after his monk friend.</p>
 
 <p>Right after Kulczycki became known, he even started to wear janisary clothes in his coffeehouse while serving coffee. His monuments are still around Vienna. You can check his Wikipedia page <a href=""https://en.wikipedia.org/wiki/Jerzy_Franciszek_Kulczycki"" rel=""nofollow"">here</a>.</p>
-",1848,2016-05-26T12:30:56.833,,,,2
-2855,1,,2016-05-26T09:21:57.350,-1,17,"<p>I have read quite a few reviews of kopi luwak, the legendary ""civet poo coffee"" from Southeast Asia.</p>
+"
+"<p>I have read quite a few reviews of kopi luwak, the legendary ""civet poo coffee"" from Southeast Asia.</p>
 
 <p>From what I've found all the reputable coffee experts say it's pretty much a scam and the coffee tastes horrible.</p>
 
@@ -1641,8 +1641,8 @@ The Oscar was exceptionally temp stable, had massive steaming power, made repeat
 <p>But hype or not there are surely varying quality kopi luwaks from sources of varying local reputation, and there are surely many fake kopi luwaks.</p>
 
 <p>But have there been any reviews by trusted coffee experts who made sure they were getting a ""good"" luwak or who compared many and gave at least one of them a good review?</p>
-",2641,2016-05-26T09:21:57.350,Are there any well known coffee experts who have given any kopi luwak a positive review?,<kopiluwak>,0,0
-2856,1,,2016-05-26T13:33:26.883,4,46,"<p>A friend and I both have aeropresses that have been through 2-4 years of use. I noticed that mine has what looks like coffee-stained abrasions near the top of the column, furthest away from the filter. This is usually the region where the water surface is at longest, before I end up pressing it. No amount of washing seemed to get rid of the abrasions so they must be baked in to the plastic now. My friend confirmed he had a similar experience with his. Due to the rugged surface, it probably increases the chance of upward-leaks while pressing down on the plunger.</p>
+"
+"<p>A friend and I both have aeropresses that have been through 2-4 years of use. I noticed that mine has what looks like coffee-stained abrasions near the top of the column, furthest away from the filter. This is usually the region where the water surface is at longest, before I end up pressing it. No amount of washing seemed to get rid of the abrasions so they must be baked in to the plastic now. My friend confirmed he had a similar experience with his. Due to the rugged surface, it probably increases the chance of upward-leaks while pressing down on the plunger.</p>
 
 <p>Is this due to some reaction occurring (unlikely I would think), or is it due to heat rising to the top (also seems somewhat unlikely to me)?</p>
 
@@ -1651,17 +1651,17 @@ The Oscar was exceptionally temp stable, had massive steaming power, made repeat
 <p><a href=""http://i.stack.imgur.com/dIbs0.jpg"" rel=""nofollow""><img src=""http://i.stack.imgur.com/dIbs0.jpg"" alt=""enter image description here""></a></p>
 
 <p><a href=""http://i.stack.imgur.com/1Sj71.jpg"" rel=""nofollow""><img src=""http://i.stack.imgur.com/1Sj71.jpg"" alt=""enter image description here""></a></p>
-",2644,2016-06-04T05:40:42.330,"Why do aeropress columns get abrasions, or scars, near the top?",<aeropress><chemistry>,1,3
-2857,1,,2016-05-27T09:27:37.623,3,131,"<p>NOTE: I'm not a coffee expert and I rarely drink coffee so layman terms would be greatly appreciated.</p>
+"
+"<p>NOTE: I'm not a coffee expert and I rarely drink coffee so layman terms would be greatly appreciated.</p>
 
 <p>Is there a <code>safety limit</code> to the amount of coffee one can drink?<br />
 Also what are the negative consequences on ones health because of consuming high amounts of coffee?</p>
-",2646,2016-05-27T15:01:28.007,What is the limit to the amount of coffee one can consume?,<health>,2,0
-2858,2,,2016-05-27T10:43:10.527,1,,"<p>Coffee is generally dissolved in water. Thus, I think water is the main limiting factor here. However, a media coverage mentions a story that somebody <strong>died</strong> in 1998 by swallowing 90 pills which contains equal amount of caffeine in <strong>250 cups of coffee</strong>.</p>
+"
+"<p>Coffee is generally dissolved in water. Thus, I think water is the main limiting factor here. However, a media coverage mentions a story that somebody <strong>died</strong> in 1998 by swallowing 90 pills which contains equal amount of caffeine in <strong>250 cups of coffee</strong>.</p>
 
 <p>The source and more links are <a href=""https://www.erowid.org/chemicals/caffeine/references/media/1998_missouri_1.shtml"" rel=""nofollow"">here</a>.</p>
-",1848,2016-05-27T10:43:10.527,,,,0
-2859,2,,2016-05-27T15:01:28.007,5,,"<p>Let's look at this from the worst case:</p>
+"
+"<p>Let's look at this from the worst case:</p>
 
 <p>The <strong><a href=""https://en.wikipedia.org/wiki/Median_lethal_dose"">LD50</a> for <a href=""https://en.wikipedia.org/wiki/Caffeine"">caffeine</a></strong> is around 150-200mg/kg body weight for a healthy adult or 10g<sup>1</sup>. The caffeine content of a ""cup of coffee"" (however you define it) varies with beans, roast and preparation method, but according to Wikipedia, (50-)75-100 cups of drip coffee get you in the lethal ballpark. (More caffeine math on this site.) This is an amount of fluid that you can't ingest without other severe complications, but <strong>deaths by pure caffeine</strong>, e.g. in tablets can happen.</p>
 
@@ -1681,46 +1681,46 @@ Also what are the negative consequences on ones health because of consuming high
 <p><sup>1</sup> Sources vary between 5-30g, but LD50 rates for humans aren't exactly a field of much experimentation.</p>
 
 <p><sup>2</sup> Pregnant women show a decreased caffeine metabolism (up to 15 hours vs. 3-4 hours in non-pregnant women) and there is a large safety margin to protect the unborn child.</p>
-",1118,2016-05-27T15:01:28.007,,,,1
-2860,2,,2016-05-27T18:28:14.677,1,,"<p><strong>It's mostly a personal preference</strong></p>
+"
+"<p><strong>It's mostly a personal preference</strong></p>
 
 <p>Stirring increases the <a href=""http://www.bunnomatic.com/home-products-blog/three-t%E2%80%99s-proper-brewing-turbulence"" rel=""nofollow"">turbulence</a>, which is supposed to help for a more <a href=""http://www.canterburycoffee.com/glossary/turbulence/"" rel=""nofollow"">even extraction</a> and change some flavor qualities of your coffee (such as the acidity and bitterness).</p>
 
 <p>In reality, you might not even notice it. I know I don't, and so far I've only met one (non-barista) person who's able to tell the difference (he didn't like a lot of turbulence).</p>
-",2651,2016-05-27T18:28:14.677,,,,0
-2861,2,,2016-05-27T22:09:24.403,-1,,"<p>Well, people have an addiction nowadays. However if one drinks good coffee in good periods, this can even been count as energizer and sleep aborter. Back on that days, I think people found unique ways to make it. Cook, boil or just eat its seeds without any refinement. </p>
+"
+"<p>Well, people have an addiction nowadays. However if one drinks good coffee in good periods, this can even been count as energizer and sleep aborter. Back on that days, I think people found unique ways to make it. Cook, boil or just eat its seeds without any refinement. </p>
 
 <p>I would contribute Turkish coffee's bitterness by telling about a tradition here in TR. </p>
 
 <p>When a couple decides to get married, groom's family heads to bride's parents' home. With a flower, and a chocolate. (Prefferably put in a silver gondol vase. Then girl serves Turkish cofee to everyone in the room. Starting by elders. Traditionally, if the girl does like dude, she puts some salt in it. That is the way to make sure if he can tolerate any jokes or not. </p>
-",2652,2016-05-27T22:09:24.403,,,,1
-2862,2,,2016-05-27T23:59:41.607,1,,"<p>Assuming that your grind size is french press coarse, stirring may speed extraction. </p>
+"
+"<p>Assuming that your grind size is french press coarse, stirring may speed extraction. </p>
 
 <p>Stirring is a bit like higher temperature, it moves around the molecules such that you are dissolving soluble compounds from the coffee. It's like having a convection oven, you can cook food with a lower temperature in the same time it takes a conventional oven. They're both going to get the job done.</p>
 
 <p>Convection ovens do sometimes dry out the food more, which can be analogous to stirring sometimes over extracting unwanted flavors like bitterness.</p>
 
 <p>In brewing coffee it's all about your preferences. And I'm not just talking about taste. Speed can be a major factor. It is for me, which is why I use an AeroPress with a fine grind setting. I just make sure I don't let it brew very long nor do I use much pressure at all in order to keep the flavor where I want it.</p>
-",362,2016-06-08T16:28:37.793,,,,0
-2863,2,,2016-05-28T17:44:14.863,1,,"<p>I have this exact brewer. This may seem counterintuitive, but I would suggest removing the lid from the carafe before pouring. The lid has a narrow rectangular notch through which the coffee passes during pour, and it is the shape of the notch that causes the splash.</p>
+"
+"<p>I have this exact brewer. This may seem counterintuitive, but I would suggest removing the lid from the carafe before pouring. The lid has a narrow rectangular notch through which the coffee passes during pour, and it is the shape of the notch that causes the splash.</p>
 
 <p>Bunn has actually had a couple of versions of the BTX-BT carafe, and the current design is focused on maximum thermal retention. Unfortunately, the trade-off is difficult pour control.</p>
-",2655,2016-05-28T17:44:14.863,,,,0
-2864,1,,2016-05-30T17:44:47.387,0,7,"<p>How much coffee should I use in making a nice sweet ice-cream? I don't want that bitter taste, just a little taste of it without getting bitter.</p>
-",2664,2016-05-30T22:09:42.870,How to prepare coffee flavored ice-cream?,<flavor>,0,1
-2865,2,,2016-05-31T08:03:36.747,1,,"<p>However I cannot understood the scars definitely, I would like to offer a solution to the scars I thought:</p>
+"
+"<p>How much coffee should I use in making a nice sweet ice-cream? I don't want that bitter taste, just a little taste of it without getting bitter.</p>
+"
+"<p>However I cannot understood the scars definitely, I would like to offer a solution to the scars I thought:</p>
 
 <p>There is a possibility that coffee grounds may stick to the rubber ring and scratch the plastic column when pressure is applied as they stay in between the rubber ring and the plastic column. Still, these scratches do not affect the performance of the gadget if they are not large enough to leak.</p>
 
 <p>Easiest way to clean the grounds is rubbing the surface of the rubber ring by your finger under warm water for a few seconds.</p>
 
 <p><strong>Edit:</strong> After I see the photos, my guess is, these scars are caused by the scratches first, then the polished surface of the plastic is peeled off by heat. I assume you may continue to use it without problems. For other people with brand new aeropress, my previous advice still holds: try to wash away residual grounds off the rubber ring.</p>
-",1848,2016-06-04T05:40:42.330,,,,2
-2867,1,2869,2016-06-01T18:51:55.493,3,55,"<p>I need more crema on top of my espresso. <strong>What are the main factors behind producing crema when making espresso?</strong></p>
-",2658,2016-06-02T11:57:53.963,What Factors Influence Crema Production In Espresso?,<espresso><crema>,1,0
-2868,1,,2016-06-02T10:47:46.667,2,99,"<p>I have been given two large bags of a popular brand of coffee beans, I would like to buy a machine to use them but do not want to spend a lot of money, is a standard coffee filter machine suitable please?  I have heard I might need a grinder? Many thanks</p>
-",2676,2016-06-02T18:05:42.600,What is the cheapest way to use coffee beans?,<equipment>,2,1
-2869,2,,2016-06-02T11:11:04.257,2,,"<p>I hereby copy a very nice statement from the conclusion of Illy &amp; Navarini's <a href=""http://link.springer.com/article/10.1007/s11483-011-9220-5"" rel=""nofollow"">survey paper</a>:</p>
+"
+"<p>I need more crema on top of my espresso. <strong>What are the main factors behind producing crema when making espresso?</strong></p>
+"
+"<p>I have been given two large bags of a popular brand of coffee beans, I would like to buy a machine to use them but do not want to spend a lot of money, is a standard coffee filter machine suitable please?  I have heard I might need a grinder? Many thanks</p>
+"
+"<p>I hereby copy a very nice statement from the conclusion of Illy &amp; Navarini's <a href=""http://link.springer.com/article/10.1007/s11483-011-9220-5"" rel=""nofollow"">survey paper</a>:</p>
 
 <hr>
 
@@ -1739,8 +1739,8 @@ Also what are the negative consequences on ones health because of consuming high
 <hr>
 
 <p><strong>Therefore; you need to find fresh nice Arabica beans, roast properly, degas for the correct amount of time, grind them well, brew appropriately with decent water right after grinding.</strong></p>
-",1848,2016-06-02T11:57:53.963,,,,0
-2870,2,,2016-06-02T17:55:41.340,1,,"<p>There are <em>many</em> ways to brew coffee, and several that are on the ""inexpensive"" end of the spectrum. Your tone sounds like you're not <em>very</em> into coffee, so to that end here are my broad recommendations in that will give you an adequate cup with minimal fuss and expense.</p>
+"
+"<p>There are <em>many</em> ways to brew coffee, and several that are on the ""inexpensive"" end of the spectrum. Your tone sounds like you're not <em>very</em> into coffee, so to that end here are my broad recommendations in that will give you an adequate cup with minimal fuss and expense.</p>
 
 <p><strong>You'll need two basic pieces of equipment:</strong></p>
 
@@ -1764,14 +1764,14 @@ Also what are the negative consequences on ones health because of consuming high
 <li>stove-top <a href=""https://en.wikipedia.org/wiki/Coffee_percolator"" rel=""nofollow"">percolator</a> or <a href=""https://en.wikipedia.org/wiki/Moka_pot"" rel=""nofollow"">moka pot</a>, see also my description of <a href=""http://coffee.stackexchange.com/questions/418/whats-the-difference-between-a-percolator-and-a-moka-pot"">the difference between them</a> and <a href=""/questions/tagged/moka"" class=""post-tag"" title=""show questions tagged &#39;moka&#39;"" rel=""tag"">moka</a></li>
 <li>cold brew; see <a href=""/questions/tagged/cold-brew"" class=""post-tag"" title=""show questions tagged &#39;cold-brew&#39;"" rel=""tag"">cold-brew</a>.</li>
 </ul>
-",262,2016-06-02T17:55:41.340,,,,0
-2871,2,,2016-06-02T18:05:42.600,0,,"<p>Assuming you are looking for the cheapest overall price, you can buy a pour over brewer for just a few dollars plus the cost of the paper filters.  This is often used in some fancy/kitchy coffee shops.  Otherwise a cheap coffee machine does basically do the trick as long as you find one that accurately heats the water.  </p>
+"
+"<p>Assuming you are looking for the cheapest overall price, you can buy a pour over brewer for just a few dollars plus the cost of the paper filters.  This is often used in some fancy/kitchy coffee shops.  Otherwise a cheap coffee machine does basically do the trick as long as you find one that accurately heats the water.  </p>
 
 <p>On the other hand if you want coffee with the oil left in(the paper filter removes the oil) a french press or percolator will be your cheapest option, or if you want to be able to do fancy ""coffee shop"" drinks (eg latte's, americano's, etc) then you have to bite the bullet and pay for an espresso machine, which tend to run a little more, and again you have to pay attention to the temperature that the machine runs at.  </p>
-",2526,2016-06-02T18:05:42.600,,,,1
-2872,1,2874,2016-06-06T13:26:34.337,2,35,"<p>Wikipedia lists coffea arabica as a plant species with a high theobromine content, but does not include coffee on the list of significant dietary sources. I searched around, and it looks like the theobromine content in coffee is essentially zero. How can this be? Is all the theobromine contained in parts of the plant other than the beans? Maybe it is removed by the extraction process?</p>
-",2686,2016-06-07T15:16:18.350,Theobromine in coffee,<chemistry>,2,0
-2873,2,,2016-06-06T14:27:21.087,1,,"<p>I suspect the reason is that theobromine is much less soluble in water than caffeine.  From a forum post at <a href=""http://www.chemicalforums.com/index.php?topic=56837.0"" rel=""nofollow"">http://www.chemicalforums.com/index.php?topic=56837.0</a>:</p>
+"
+"<p>Wikipedia lists coffea arabica as a plant species with a high theobromine content, but does not include coffee on the list of significant dietary sources. I searched around, and it looks like the theobromine content in coffee is essentially zero. How can this be? Is all the theobromine contained in parts of the plant other than the beans? Maybe it is removed by the extraction process?</p>
+"
+"<p>I suspect the reason is that theobromine is much less soluble in water than caffeine.  From a forum post at <a href=""http://www.chemicalforums.com/index.php?topic=56837.0"" rel=""nofollow"">http://www.chemicalforums.com/index.php?topic=56837.0</a>:</p>
 
 <ul>
 <li>Caffeine – 21600mg/L water</li>
@@ -1779,10 +1779,10 @@ Also what are the negative consequences on ones health because of consuming high
 </ul>
 
 <p>So potentially the grounds have theobromine but it doesn't dissolve during brewing.</p>
-",1917,2016-06-06T14:27:21.087,,,,1
-2874,2,,2016-06-06T21:31:40.663,5,,"<p>According to the <a href=""https://phytochem.nal.usda.gov/phytochem/chemicals/chemFarmacyList/17073?count=24&amp;max=20&amp;offset=0&amp;actTotal=21&amp;plantTotal=24&amp;sort=amt_or_hi&amp;order=desc"">Dr. Duke's Phytochemical and Ethnobotanical Databases</a>, Coffee Arabica has one of the largest amount of theobromine in its <strong>seed</strong> (20 ppm). However, this amount is just a bit more than 1/2500 th of the amount what Cocoa includes (48 223 ppm). So... Coffee is not really considered a theobromine source, but Cocoa is.</p>
-",1848,2016-06-06T21:39:32.900,,,,0
-2875,2,,2016-06-08T11:53:26.650,0,,"<p>While all of the above are good recommendations, before you chuck your machine please check the reservoir filter. Mine was having the exact same problem, motor struggling, producing smaller than usual cups of coffee. We took the bottom off and cleaned out the internal filter as we saw on YouTube, didn't help. Descaled it, didn't help. Then simply ran the reservoir filter under the tap for a minute or two and it completely resolved the issue. I didn't remove the filter first either. I usually go against Keurigs recommendation and use tap water in my machine everyday, just had a build up of something in there! </p>
-",2696,2016-06-08T11:53:26.650,,,,0
-2876,2,,2016-06-10T14:59:49.413,0,,"<p>Who funded study that just came out about coffee and longer telomeres?</p>
-",2704,2016-06-10T14:59:49.413,,,,1
+"
+"<p>According to the <a href=""https://phytochem.nal.usda.gov/phytochem/chemicals/chemFarmacyList/17073?count=24&amp;max=20&amp;offset=0&amp;actTotal=21&amp;plantTotal=24&amp;sort=amt_or_hi&amp;order=desc"">Dr. Duke's Phytochemical and Ethnobotanical Databases</a>, Coffee Arabica has one of the largest amount of theobromine in its <strong>seed</strong> (20 ppm). However, this amount is just a bit more than 1/2500 th of the amount what Cocoa includes (48 223 ppm). So... Coffee is not really considered a theobromine source, but Cocoa is.</p>
+"
+"<p>While all of the above are good recommendations, before you chuck your machine please check the reservoir filter. Mine was having the exact same problem, motor struggling, producing smaller than usual cups of coffee. We took the bottom off and cleaned out the internal filter as we saw on YouTube, didn't help. Descaled it, didn't help. Then simply ran the reservoir filter under the tap for a minute or two and it completely resolved the issue. I didn't remove the filter first either. I usually go against Keurigs recommendation and use tap water in my machine everyday, just had a build up of something in there! </p>
+"
+"<p>Who funded study that just came out about coffee and longer telomeres?</p>
+"
