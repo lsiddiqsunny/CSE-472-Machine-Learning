@@ -1,4 +1,3 @@
-3d_Printer
 Coffee
 Arduino
 Anime
