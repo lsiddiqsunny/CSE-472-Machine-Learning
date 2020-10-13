@@ -1,0 +1,99 @@
+KNN Result:
+K: 1 Technique: hamming Miss:  161  Correct:  439  Accuracy:  73.16666666666667
+K: 1 Technique: euclidean Miss:  114  Correct:  486  Accuracy:  81.0
+K: 1 Technique: cosine Miss:  120  Correct:  480  Accuracy:  80.0
+K: 3 Technique: hamming Miss:  152  Correct:  448  Accuracy:  74.66666666666667
+K: 3 Technique: euclidean Miss:  119  Correct:  481  Accuracy:  80.16666666666667
+K: 3 Technique: cosine Miss:  93  Correct:  507  Accuracy:  84.5
+K: 5 Technique: hamming Miss:  139  Correct:  461  Accuracy:  76.83333333333333
+K: 5 Technique: euclidean Miss:  115  Correct:  485  Accuracy:  80.83333333333333
+K: 5 Technique: cosine Miss:  66  Correct:  534  Accuracy:  89.0
+
+Naive Bayes Result:
+Alpha:  0.01 Miss:  68  Correct:  532  Accuracy:  88.66666666666667
+Alpha:  0.1 Miss:  70  Correct:  530  Accuracy:  88.33333333333333
+Alpha:  0.5 Miss:  72  Correct:  528  Accuracy:  88.0
+Alpha:  1 Miss:  74  Correct:  526  Accuracy:  87.66666666666667
+Alpha:  5 Miss:  82  Correct:  518  Accuracy:  86.33333333333333
+Alpha:  10 Miss:  91  Correct:  509  Accuracy:  84.83333333333333
+Alpha:  50 Miss:  105  Correct:  495  Accuracy:  82.5
+Alpha:  100 Miss:  113  Correct:  487  Accuracy:  81.16666666666667
+Alpha:  500 Miss:  137  Correct:  463  Accuracy:  77.16666666666667
+Alpha:  1000 Miss:  147  Correct:  453  Accuracy:  75.5
+
+50 Runs Result:
+  Correct:  26  Accuracy:  86.66666666666667
+KNN:  Miss:  1  Correct:  29  Accuracy:  96.66666666666667
+Naive:  Miss:  2  Correct:  28  Accuracy:  93.33333333333333
+KNN:  Miss:  5  Correct:  25  Accuracy:  83.33333333333333
+Naive:  Miss:  2  Correct:  28  Accuracy:  93.33333333333333
+KNN:  Miss:  5  Correct:  25  Accuracy:  83.33333333333333
+Naive:  Miss:  5  Correct:  25  Accuracy:  83.33333333333333
+KNN:  Miss:  2  Correct:  28  Accuracy:  93.33333333333333
+Naive:  Miss:  4  Correct:  26  Accuracy:  86.66666666666667
+KNN:  Miss:  3  Correct:  27  Accuracy:  90.0
+Naive:  Miss:  4  Correct:  26  Accuracy:  86.66666666666667
+KNN:  Miss:  2  Correct:  28  Accuracy:  93.33333333333333
+Naive:  Miss:  1  Correct:  29  Accuracy:  96.66666666666667
+KNN:  Miss:  1  Correct:  29  Accuracy:  96.66666666666667
+Naive:  Miss:  1  Correct:  29  Accuracy:  96.66666666666667
+KNN:  Miss:  0  Correct:  30  Accuracy:  100.0
+Naive:  Miss:  2  Correct:  28  Accuracy:  93.33333333333333
+KNN:  Miss:  5  Correct:  25  Accuracy:  83.33333333333333
+Naive:  Miss:  1  Correct:  29  Accuracy:  96.66666666666667
+KNN:  Miss:  2  Correct:  28  Accuracy:  93.33333333333333
+Naive:  Miss:  1  Correct:  29  Accuracy:  96.66666666666667
+KNN:  Miss:  3  Correct:  27  Accuracy:  90.0
+Naive:  Miss:  1  Correct:  29  Accuracy:  96.66666666666667
+KNN:  Miss:  2  Correct:  28  Accuracy:  93.33333333333333
+Naive:  Miss:  0  Correct:  30  Accuracy:  100.0
+KNN:  Miss:  3  Correct:  27  Accuracy:  90.0
+Naive:  Miss:  2  Correct:  28  Accuracy:  93.33333333333333
+KNN:  Miss:  2  Correct:  28  Accuracy:  93.33333333333333
+Naive:  Miss:  5  Correct:  25  Accuracy:  83.33333333333333
+KNN:  Miss:  3  Correct:  27  Accuracy:  90.0
+Naive:  Miss:  4  Correct:  26  Accuracy:  86.66666666666667
+KNN:  Miss:  4  Correct:  26  Accuracy:  86.66666666666667
+Naive:  Miss:  2  Correct:  28  Accuracy:  93.33333333333333
+KNN:  Miss:  5  Correct:  25  Accuracy:  83.33333333333333
+Naive:  Miss:  5  Correct:  25  Accuracy:  83.33333333333333
+KNN:  Miss:  2  Correct:  28  Accuracy:  93.33333333333333
+Naive:  Miss:  4  Correct:  26  Accuracy:  86.66666666666667
+KNN:  Miss:  4  Correct:  26  Accuracy:  86.66666666666667
+Naive:  Miss:  2  Correct:  28  Accuracy:  93.33333333333333
+KNN:  Miss:  0  Correct:  30  Accuracy:  100.0
+Naive:  Miss:  1  Correct:  29  Accuracy:  96.66666666666667
+KNN:  Miss:  3  Correct:  27  Accuracy:  90.0
+Naive:  Miss:  1  Correct:  29  Accuracy:  96.66666666666667
+KNN:  Miss:  2  Correct:  28  Accuracy:  93.33333333333333
+Naive:  Miss:  3  Correct:  27  Accuracy:  90.0
+KNN:  Miss:  3  Correct:  27  Accuracy:  90.0
+Naive:  Miss:  2  Correct:  28  Accuracy:  93.33333333333333
+KNN:  Miss:  2  Correct:  28  Accuracy:  93.33333333333333
+Naive:  Miss:  6  Correct:  24  Accuracy:  80.0
+KNN:  Miss:  5  Correct:  25  Accuracy:  83.33333333333333
+Naive:  Miss:  6  Correct:  24  Accuracy:  80.0
+KNN:  Miss:  3  Correct:  27  Accuracy:  90.0
+Naive:  Miss:  5  Correct:  25  Accuracy:  83.33333333333333
+KNN:  Miss:  7  Correct:  23  Accuracy:  76.66666666666667
+Naive:  Miss:  2  Correct:  28  Accuracy:  93.33333333333333
+KNN:  Miss:  4  Correct:  26  Accuracy:  86.66666666666667
+Naive:  Miss:  2  Correct:  28  Accuracy:  93.33333333333333
+KNN:  Miss:  7  Correct:  23  Accuracy:  76.66666666666667
+Naive:  Miss:  3  Correct:  27  Accuracy:  90.0
+KNN:  Miss:  3  Correct:  27  Accuracy:  90.0
+Naive:  Miss:  3  Correct:  27  Accuracy:  90.0
+KNN:  Miss:  4  Correct:  26  Accuracy:  86.66666666666667
+Naive:  Miss:  2  Correct:  28  Accuracy:  93.33333333333333
+KNN:  Miss:  5  Correct:  25  Accuracy:  83.33333333333333
+Naive:  Miss:  1  Correct:  29  Accuracy:  96.66666666666667
+KNN:  Miss:  2  Correct:  28  Accuracy:  93.33333333333333
+Naive:  Miss:  1  Correct:  29  Accuracy:  96.66666666666667
+KNN:  Miss:  5  Correct:  25  Accuracy:  83.33333333333333
+Naive:  Miss:  2  Correct:  28  Accuracy:  93.33333333333333
+KNN:  Miss:  2  Correct:  28  Accuracy:  93.33333333333333
+Naive:  Miss:  1  Correct:  29  Accuracy:  96.66666666666667
+KNN:  Miss:  3  Correct:  27  Accuracy:  90.0
+
+Statistics:
+-1.46726567288591 0.1486933904279941
